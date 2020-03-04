@@ -1,7 +1,8 @@
-from pyquery import PyQuery as pq
-from fetch import get, post
 import re
-from save import save
+from pyquery import PyQuery as pq
+
+from policy_crawl.common.fetch import get,post
+from policy_crawl.common.save import save
 
 def  parse_detail(html,url):
     doc=pq(html)
