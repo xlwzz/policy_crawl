@@ -3,6 +3,7 @@ import random
 import requests
 from my_fake_useragent import UserAgent
 
+from policy_crawl.common.logger import errorlog
 headers={"Useragent":UserAgent().random()}
 
 def get(url,params=None,headers=headers,code="utf-8",timeout=30,**kwargs):
@@ -10,9 +11,8 @@ def get(url,params=None,headers=headers,code="utf-8",timeout=30,**kwargs):
     if res.status_code in [200,201,301]:
             return res.content.decode(code)
     else:
-        time.sleep(random.randint(1,5))
-        ret=get(url,params=None,headers=headers,code="utf-8",timeout=timeout,**kwargs)
-        return ret
+        errorlog.logger.error("url status_code 错误：%s,status_code:%s" % (url, res.status_code))
+        raise ConnectionError("没有连接")
 
 
 def post(url,data=None,headers=headers,code="utf-8",timeout=30,**kwargs):
@@ -20,6 +20,5 @@ def post(url,data=None,headers=headers,code="utf-8",timeout=30,**kwargs):
     if res.status_code in [200,201,301]:
             return res.content.decode(code)
     else:
-        time.sleep(random.randint(1,5))
-        ret=get(url,data=None,headers=headers,code="utf-8",timeout=30,**kwargs)
-        return ret
+        errorlog.logger.error("url status_code 错误：%s,status_code:%s" %(url,res.status_code))
+        raise ConnectionError("没有连接")

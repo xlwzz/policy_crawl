@@ -1,0 +1,3 @@
+2020-03-05 14:15:16,436 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=7444,status_code:404
+2020-03-05 14:16:19,427 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=7444,status_code:404
+2020-03-05 14:16:19,427 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:34] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=7444
