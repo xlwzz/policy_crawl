@@ -11,7 +11,7 @@ def  parse_detail(html,url):
     data["title"]=doc(".content-article h1").text()
     s=doc(".messge span").text()
     data["publish_time"]= re.search(r"(\d{4}-\d{1,2}-\d{1,2})",s).groups()
-    print(data["publish_time"])
+    #print(data["publish_time"])
 
     data["content"]=doc(".textbody ").text()
     items=doc(".textbody  a").items()
@@ -21,18 +21,19 @@ def  parse_detail(html,url):
     # data["content_url"]=[ item.attr("href")  for item in doc(".gxt-xilan-content a").items()]
     data["classification"]="山西省工业和信息化厅"
     print(data)
-
+    #save(data)
 def  parse_index(html):  ##url
      doc=pq(html)
      items=doc("ul.list-ul li a").items()
      for item in items:
             url=item.attr("href")
-            print(url)
-            #url="http://gxt.hebei.gov.cn" + url
-            # html=get(url)
-            # parse_detail(html,url)
-            # print(parse_detail(html,url))
-            break      
+            url="http://gxt.shanxi.gov.cn/sxgxtweb/sxgxt/" + url
+            #print(url)
+            html=get(url)
+            parse_detail(html,url)
+            #print(parse_detail(html,url))
+            #break      
+       
 
 if __name__ == "__main__":
     
@@ -41,3 +42,4 @@ if __name__ == "__main__":
         url="http://gxt.shanxi.gov.cn/sxgxtweb/sxgxt/list.jsp"    
         html=post(url,data=data,code="gbk")
         parse_index(html)
+        break
