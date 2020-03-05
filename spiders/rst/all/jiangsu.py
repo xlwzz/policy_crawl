@@ -1,5 +1,4 @@
 import re
-from urllib.parse import urlencode
 import time
 import random 
 
@@ -10,23 +9,21 @@ from policy_crawl.common.logger import alllog,errorlog
 
 
 def parse_detail(html,url):
-    alllog.logger.info("吉林省人力资源和社会保障厅: %s"%url)
+    alllog.logger.info("江苏省人力资源和社会保障厅: %s"%url)
     doc=pq(html)
     data={}
     data["title"]=doc("title").text()
-    data["content"]=doc(".TRS_Editor").text().replace("\n","")
-    data["content_url"]=[item.attr("href") for item in doc(".TRS_Editor a").items()]
+    data["content"]=doc(".bt_content").text().replace("\n","")
+    data["content_url"]=[item.attr("href") for item in doc(".bt_content a").items()]
     try:
         # data["publish_time"]=re.findall("(\d{4}年\d{1,2}月\d{1,2}日)",html)[0]
         data["publish_time"]=re.findall("(\d{4}-\d{1,2}-\d{1,2})",html)[0]
     except:
         data["publish_time"]=""
         errorlog.logger.error("url:%s 未找到publish_time"%url)
-    if not data["content"]:
-        data["content"]=doc(".Custom_UnionStyle").text()
-        data["content_url"]=doc(".Custom_UnionStyle a").text()
-    data["classification"]="吉林省人力资源和社会保障厅"
+    data["classification"]="江苏省人力资源和社会保障厅"
     data["url"]=url
+    print(data)
     save(data)
 
 def parse_index(html):
@@ -34,25 +31,25 @@ def parse_index(html):
     items=doc(".xlt_table1 td a").items()
     for item in items:
         url=item.attr("href")
-        print(url)
-        # try:
-        #     html=get(url)
-        # except:
-        #     errorlog.logger.error("url错误:%s"%url)
-        # parse_detail(html,url)
-        # time.sleep(random.randint(1,2))
+        try:
+            html=get(url)
+        except:
+            errorlog.logger.error("url错误:%s"%url)
+        parse_detail(html,url)
 
 def main():
-    for i in range(2,212):
+    for i in range(1,212):
+        print(i)
         url="http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?"
         params={'texttype': '', 'fbtime': '', 'vc_all': '', 'vc_filenumber': '', 'vc_title': '', 'vc_number': '', 'currpage': str(i), 'sortfield': 'compaltedate:0', 'fields': '', 'fieldConfigId': '', 'hasNoPages': '', 'infoCount': ''}
-        url=url+urlencode(params)
         data = {'infotypeId': '', 'jdid': '67', 'area': '550232674', 'divid': 'div51019', 'vc_title': '',
-                'vc_number': '', 'sortfield': 'compaltedate:0', 'currpage': '2', 'vc_filenumber': '', 'vc_all': '',
+                'vc_number': '', 'sortfield': 'compaltedate:0', 'currpage':str(i), 'vc_filenumber': '', 'vc_all': '',
                 'texttype': '', 'fbtime': '', 'fields': '', 'fieldConfigId': '', 'hasNoPages': '', 'infoCount': ''}
-        html=post(url,data=data)
+        html=post(url,data=data,params=params)
         parse_index(html)
-        break
+        time.sleep(random.randint(1,2))
+
+        # break
 
 
 

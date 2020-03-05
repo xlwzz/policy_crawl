@@ -17,7 +17,6 @@ def get(url,params=None,headers=headers,code="utf-8",timeout=30,**kwargs):
 
 def post(url,data=None,headers=headers,code="utf-8",timeout=30,**kwargs):
     res=requests.post(url,data=data,headers=headers,timeout=30,**kwargs)
-    print(res.status_code)
     if res.status_code in [200,201,301]:
             return res.content.decode(code)
     else:
