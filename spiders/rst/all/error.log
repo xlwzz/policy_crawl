@@ -1,3 +1,170 @@
 2020-03-05 14:15:16,436 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=7444,status_code:404
 2020-03-05 14:16:19,427 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=7444,status_code:404
 2020-03-05 14:16:19,427 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:34] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=7444
+2020-03-05 14:23:51,501 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:22] - ERROR: url:https://rst.hebei.gov.cn//plus/view.php?aid=6204 未找到publish_time
+2020-03-05 14:24:00,875 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=6145,status_code:404
+2020-03-05 14:24:00,875 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=6145
+2020-03-05 14:24:29,172 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=5982,status_code:404
+2020-03-05 14:24:29,172 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=5982
+2020-03-05 14:26:34,395 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=5112,status_code:404
+2020-03-05 14:26:34,395 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=5112
+2020-03-05 14:26:50,433 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=5041,status_code:404
+2020-03-05 14:26:50,433 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=5041
+2020-03-05 14:27:54,716 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=4735
+2020-03-05 14:28:05,980 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=4725,status_code:404
+2020-03-05 14:28:05,980 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=4725
+2020-03-05 14:30:26,207 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=4253
+2020-03-05 14:31:23,191 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=3839,status_code:404
+2020-03-05 14:31:23,192 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=3839
+2020-03-05 14:32:21,616 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=3252,status_code:404
+2020-03-05 14:32:21,616 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=3252
+2020-03-05 14:32:32,517 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=3214,status_code:404
+2020-03-05 14:32:32,517 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=3214
+2020-03-05 14:32:49,141 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=3123,status_code:404
+2020-03-05 14:32:49,142 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=3123
+2020-03-05 14:33:33,820 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=2900,status_code:404
+2020-03-05 14:33:33,820 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=2900
+2020-03-05 14:34:12,266 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=2517,status_code:404
+2020-03-05 14:34:12,266 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=2517
+2020-03-05 14:35:13,559 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=1826,status_code:404
+2020-03-05 14:35:13,559 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=1826
+2020-03-05 14:35:19,287 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=1811,status_code:404
+2020-03-05 14:35:19,287 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=1811
+2020-03-05 14:35:30,331 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=1742,status_code:404
+2020-03-05 14:35:30,332 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=1742
+2020-03-05 14:35:45,157 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=1647,status_code:404
+2020-03-05 14:35:45,157 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=1647
+2020-03-05 14:35:47,545 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：https://rst.hebei.gov.cn//plus/view.php?aid=1607,status_code:404
+2020-03-05 14:35:47,545 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hebei.py[line:38] - ERROR: url错误:https://rst.hebei.gov.cn//plus/view.php?aid=1607
+2020-03-05 14:51:40,057 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/liaoning.py[line:38] - ERROR: url错误:http://rst.ln.gov.cn/zcfg/lrs/201810/t20181029_3347014.html
+2020-03-05 15:04:30,124 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201801/U020180124310700105690.pdf
+2020-03-05 15:04:38,943 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201801/P020180122392321897757.pdf
+2020-03-05 15:05:05,960 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201712/P020171208379677120957.pdf
+2020-03-05 15:05:16,681 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201710/P020171027576215321888.pdf
+2020-03-05 15:05:52,987 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201710/P020171026359221743142.pdf
+2020-03-05 15:06:05,395 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201710/P020171012555123517962.pdf
+2020-03-05 15:06:15,717 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170928385698220059.pdf
+2020-03-05 15:06:17,953 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170926574433034771.pdf
+2020-03-05 15:06:20,880 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170915493981667193.pdf
+2020-03-05 15:06:25,158 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170914377188836588.pdf
+2020-03-05 15:06:47,629 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170906481789163126.pdf
+2020-03-05 15:07:00,605 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170831506572608882.pdf
+2020-03-05 15:07:09,420 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170822482798268402.pdf
+2020-03-05 15:07:17,064 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170822350399889554.pdf
+2020-03-05 15:07:20,872 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170815386411553914.pdf
+2020-03-05 15:07:24,535 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170815386408361338.pdf
+2020-03-05 15:07:34,421 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201707/P020170717325427277936.pdf
+2020-03-05 15:07:45,194 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201706/P020170613363493194504.pdf
+2020-03-05 15:07:56,165 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201706/P020170601593307322987.pdf
+2020-03-05 15:08:00,094 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201705/P020170502370864453125.pdf
+2020-03-05 15:08:01,914 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201705/P020170502370840016076.pdf
+2020-03-05 15:08:19,722 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201704/P020170410418401250715.pdf
+2020-03-05 15:08:24,944 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201704/P020170410418383101463.pdf
+2020-03-05 15:08:26,647 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201704/P020170401389468480478.pdf
+2020-03-05 15:08:28,297 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536841619831.pdf
+2020-03-05 15:08:31,049 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536835482579.pdf
+2020-03-05 15:08:31,051 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536835482579.pdf 未找到publish_time
+2020-03-05 15:08:38,006 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536402940376.pdf
+2020-03-05 15:08:38,009 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536402940376.pdf 未找到publish_time
+2020-03-05 15:09:05,866 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536339078555.pdf
+2020-03-05 15:09:05,873 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536339078555.pdf 未找到publish_time
+2020-03-05 15:09:07,640 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536331449855.pdf
+2020-03-05 15:09:07,648 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536331449855.pdf 未找到publish_time
+2020-03-05 15:09:11,048 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536044690023.pdf
+2020-03-05 15:09:11,051 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536044690023.pdf 未找到publish_time
+2020-03-05 15:09:12,913 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170317362676814677.pdf
+2020-03-05 15:09:12,920 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170317362676814677.pdf 未找到publish_time
+2020-03-05 15:09:16,537 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201702/P020170209378165439341.pdf
+2020-03-05 15:09:16,545 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201702/P020170209378165439341.pdf 未找到publish_time
+2020-03-05 15:09:19,298 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161230510638224441.pdf
+2020-03-05 15:09:19,305 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161230510638224441.pdf 未找到publish_time
+2020-03-05 15:09:22,142 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161230510614411556.pdf
+2020-03-05 15:09:22,148 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161230510614411556.pdf 未找到publish_time
+2020-03-05 15:09:24,785 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161229481884120310.pdf
+2020-03-05 15:09:24,792 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161229481884120310.pdf 未找到publish_time
+2020-03-05 15:09:28,257 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.jl.gov.cn/zw/yw/jlyw/201611/t20161101_5176270.html,status_code:404
+2020-03-05 15:09:28,258 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://www.jl.gov.cn/zw/yw/jlyw/201611/t20161101_5176270.html
+2020-03-05 15:09:51,594 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818395264793345.pdf
+2020-03-05 15:10:01,499 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818395014821869.pdf
+2020-03-05 15:10:04,306 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818395002487586.pdf
+2020-03-05 15:10:06,864 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818394941055433.pdf
+2020-03-05 15:10:06,872 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818394941055433.pdf 未找到publish_time
+2020-03-05 15:11:44,842 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831337350645084.pdf
+2020-03-05 15:11:47,415 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831337020351311.pdf
+2020-03-05 15:11:50,231 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831336716018309.pdf
+2020-03-05 15:11:52,216 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831337990763083.pdf
+2020-03-05 15:11:52,225 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831337990763083.pdf 未找到publish_time
+2020-03-05 15:13:00,037 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160830518583691112.pdf
+2020-03-05 15:13:20,811 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818394078942373.doc
+2020-03-05 15:13:27,856 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818394059437406.doc
+2020-03-05 15:13:41,630 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?,status_code:403
+2020-03-05 15:13:54,276 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?,status_code:403
+2020-03-05 15:15:35,586 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:24] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?,status_code:403
+2020-03-05 15:15:52,797 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201801/U020180124310700105690.pdf
+2020-03-05 15:16:01,462 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201801/P020180122392321897757.pdf
+2020-03-05 15:16:30,670 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201712/P020171208379677120957.pdf
+2020-03-05 15:16:40,316 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201710/P020171027576215321888.pdf
+2020-03-05 15:17:15,586 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201710/P020171026359221743142.pdf
+2020-03-05 15:17:29,857 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201710/P020171012555123517962.pdf
+2020-03-05 15:17:40,129 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170928385698220059.pdf
+2020-03-05 15:17:43,342 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170926574433034771.pdf
+2020-03-05 15:17:46,049 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170915493981667193.pdf
+2020-03-05 15:17:52,276 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170914377188836588.pdf
+2020-03-05 15:18:13,105 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201709/P020170906481789163126.pdf
+2020-03-05 15:18:25,129 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170831506572608882.pdf
+2020-03-05 15:18:34,016 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170822482798268402.pdf
+2020-03-05 15:18:42,674 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170822350399889554.pdf
+2020-03-05 15:18:46,516 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170815386411553914.pdf
+2020-03-05 15:18:50,308 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201708/P020170815386408361338.pdf
+2020-03-05 15:19:02,234 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201707/P020170717325427277936.pdf
+2020-03-05 15:19:12,263 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201706/P020170613363493194504.pdf
+2020-03-05 15:19:19,237 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201706/P020170601593307322987.pdf
+2020-03-05 15:19:24,007 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201705/P020170502370864453125.pdf
+2020-03-05 15:19:25,695 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201705/P020170502370840016076.pdf
+2020-03-05 15:19:47,620 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201704/P020170410418401250715.pdf
+2020-03-05 15:19:52,798 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201704/P020170410418383101463.pdf
+2020-03-05 15:19:54,486 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201704/P020170401389468480478.pdf
+2020-03-05 15:19:56,107 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536841619831.pdf
+2020-03-05 15:19:57,864 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536835482579.pdf
+2020-03-05 15:19:57,866 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536835482579.pdf 未找到publish_time
+2020-03-05 15:20:04,812 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536402940376.pdf
+2020-03-05 15:20:04,816 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536402940376.pdf 未找到publish_time
+2020-03-05 15:20:33,411 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536339078555.pdf
+2020-03-05 15:20:33,417 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536339078555.pdf 未找到publish_time
+2020-03-05 15:20:36,229 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536331449855.pdf
+2020-03-05 15:20:36,237 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536331449855.pdf 未找到publish_time
+2020-03-05 15:20:38,646 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536044690023.pdf
+2020-03-05 15:20:38,649 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170328536044690023.pdf 未找到publish_time
+2020-03-05 15:20:40,452 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170317362676814677.pdf
+2020-03-05 15:20:40,455 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201703/P020170317362676814677.pdf 未找到publish_time
+2020-03-05 15:20:43,981 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201702/P020170209378165439341.pdf
+2020-03-05 15:20:43,995 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201702/P020170209378165439341.pdf 未找到publish_time
+2020-03-05 15:20:45,735 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161230510638224441.pdf
+2020-03-05 15:20:45,738 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161230510638224441.pdf 未找到publish_time
+2020-03-05 15:20:48,750 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161230510614411556.pdf
+2020-03-05 15:20:48,753 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161230510614411556.pdf 未找到publish_time
+2020-03-05 15:20:51,848 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161229481884120310.pdf
+2020-03-05 15:20:51,853 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201612/P020161229481884120310.pdf 未找到publish_time
+2020-03-05 15:20:56,386 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.jl.gov.cn/zw/yw/jlyw/201611/t20161101_5176270.html,status_code:404
+2020-03-05 15:20:56,386 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://www.jl.gov.cn/zw/yw/jlyw/201611/t20161101_5176270.html
+2020-03-05 15:21:21,052 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818395264793345.pdf
+2020-03-05 15:21:29,044 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818395014821869.pdf
+2020-03-05 15:21:31,891 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818395002487586.pdf
+2020-03-05 15:21:35,337 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818394941055433.pdf
+2020-03-05 15:21:35,345 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818394941055433.pdf 未找到publish_time
+2020-03-05 15:23:16,702 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831337350645084.pdf
+2020-03-05 15:23:19,286 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831337020351311.pdf
+2020-03-05 15:23:20,950 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831336716018309.pdf
+2020-03-05 15:23:23,098 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831337990763083.pdf
+2020-03-05 15:23:23,106 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:23] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160831337990763083.pdf 未找到publish_time
+2020-03-05 15:24:27,507 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160830518583691112.pdf
+2020-03-05 15:24:44,425 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818394078942373.doc
+2020-03-05 15:24:50,659 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jilin.py[line:41] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/201608/P020160818394059437406.doc
+2020-03-05 15:35:16,218 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?,status_code:403
+2020-03-05 15:35:58,569 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?texttype=&fbtime=&vc_all=&vc_filenumber=&vc_title=&vc_number=&currpage=1&sortfield=compaltedate%3A0&fields=&fieldConfigId=&hasNoPages=&infoCount=,status_code:403
+2020-03-05 15:36:14,541 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?texttype=&fbtime=&vc_all=&vc_filenumber=&vc_title=&vc_number=&currpage=1&sortfield=compaltedate%3A0&fields=&fieldConfigId=&hasNoPages=&infoCount=,status_code:403
+2020-03-05 15:36:38,184 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?texttype=&fbtime=&vc_all=&vc_filenumber=&vc_title=&vc_number=&currpage=1&sortfield=compaltedate%3A0&fields=&fieldConfigId=&hasNoPages=&infoCount=,status_code:403
+2020-03-05 15:38:14,650 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:24] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?texttype=&fbtime=&vc_all=&vc_filenumber=&vc_title=&vc_number=&currpage=1&sortfield=compaltedate%3A0&fields=&fieldConfigId=&hasNoPages=&infoCount=,status_code:403
+2020-03-05 15:38:57,010 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:24] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?texttype=&fbtime=&vc_all=&vc_filenumber=&vc_title=&vc_number=&currpage=1&sortfield=compaltedate%3A0&fields=&fieldConfigId=&hasNoPages=&infoCount=,status_code:403
+2020-03-05 15:39:43,515 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:24] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?texttype=&fbtime=&vc_all=&vc_filenumber=&vc_title=&vc_number=&currpage=1&sortfield=compaltedate%3A0&fields=&fieldConfigId=&hasNoPages=&infoCount=,status_code:403
+2020-03-05 15:41:28,524 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:24] - ERROR: url status_code 错误：http://jshrss.jiangsu.gov.cn/module/xxgk/search.jsp?texttype=&fbtime=&vc_all=&vc_filenumber=&vc_title=&vc_number=&currpage=2&sortfield=compaltedate%3A0&fields=&fieldConfigId=&hasNoPages=&infoCount=,status_code:403
