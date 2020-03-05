@@ -24,7 +24,7 @@ def  parse_detail(html,url):
     # data["content_url"]=[ item.attr("href")  for item in doc(".gxt-xilan-content a").items()]
     #print(data["content_url"])
     print(data)
-    save(data)
+    # save(data)
 
 
 def  parse_index(html):
