@@ -8,7 +8,6 @@ from policy_crawl.common.fetch import get,post
 from policy_crawl.common.save import save
 
 
-
 def parse_detail(html,url):
     doc=pq(html)
     data={}
@@ -21,7 +20,6 @@ def parse_detail(html,url):
     print(data)
     save(data)
 
-#https://rst.hebei.gov.cn/a/tongzhi/2019/0531/7451.html
 def parse_index(html):
     doc=pq(html)
     items=doc(".typelist li a").items()
@@ -29,14 +27,15 @@ def parse_index(html):
         url=item.attr("href")
         if "http" not in url:
             url="https://rst.hebei.gov.cn" + url
+        print(url)
         html=get(url)
         parse_detail(html,url)
         time.sleep(random.randint(1,3))
 
 
-
 def main():
-    for i in range(1,46):
+    for i in range(9,46):
+        print(i)
         url="https://rst.hebei.gov.cn/a/tongzhi/list_6_"+ str(i)+".html"
         html=get(url)
         parse_index(html)
