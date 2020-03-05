@@ -1,10 +1,10 @@
 import re
 import time
-import random
+import random 
 
 from pyquery import PyQuery as pq
-
 from policy_crawl.common.fetch import get,post
+
 from policy_crawl.common.save import save
 
 
