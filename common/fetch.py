@@ -4,7 +4,7 @@ import requests
 from my_fake_useragent import UserAgent
 
 from policy_crawl.common.logger import errorlog
-headers={"Useragent":UserAgent().random()}
+headers={"User-Agent":UserAgent().random()}
 
 def get(url,params=None,headers=headers,code="utf-8",timeout=30,**kwargs):
     res=requests.get(url,params=params,headers=headers,timeout=timeout,**kwargs)
@@ -16,7 +16,8 @@ def get(url,params=None,headers=headers,code="utf-8",timeout=30,**kwargs):
 
 
 def post(url,data=None,headers=headers,code="utf-8",timeout=30,**kwargs):
-    res=requests.get(url,data=data,headers=headers,timeout=30,**kwargs)
+    res=requests.post(url,data=data,headers=headers,timeout=30,**kwargs)
+    print(res.status_code)
     if res.status_code in [200,201,301]:
             return res.content.decode(code)
     else:
