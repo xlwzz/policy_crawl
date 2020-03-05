@@ -4,11 +4,12 @@ import random
 
 from pyquery import PyQuery as pq
 from policy_crawl.common.fetch import get,post
-
 from policy_crawl.common.save import save
+from policy_crawl.common.logger import alllog,errorlog
 
 
 def parse_detail(html,url):
+    alllog.logger.info("河北省财政厅: %s"%url)
     doc=pq(html)
     data={}
     data["title"]=doc("title").text()
@@ -17,7 +18,6 @@ def parse_detail(html,url):
     data["publish_time"]=re.findall("(\d{4}-\d{1,2}-\d{1,2})",html)[0]
     data["classification"]="河北省人力资源和社会保障厅"
     data["url"]=url
-    print(data)
     save(data)
 
 def parse_index(html):
@@ -28,7 +28,10 @@ def parse_index(html):
         if "http" not in url:
             url="https://rst.hebei.gov.cn" + url
         print(url)
-        html=get(url)
+        try:
+            html=get(url)
+        except:
+            errorlog.logger.error("url错误:"%url)
         parse_detail(html,url)
         time.sleep(random.randint(1,3))
 

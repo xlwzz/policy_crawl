@@ -30,12 +30,16 @@ def parse_index(html):
         url=item.attr("href")
         if url:
             url="http://rst.nmg.gov.cn"+url
-            html=get(url)
+            try:
+                html=get(url)
+            except:
+                print("有问题url:%s"%url)
+                continue
             parse_detail(html,url)
             time.sleep(random.randint(1,3))
 
 def main():
-    for i in range(1,5):
+    for i in range(4,5):
         print(i)
         url="http://rst.nmg.gov.cn/ecdomain/portal/portlets/newslist/newslistcomponent.jsp?"
         params={'goPage': '1', 'pageNum': str(i), 'siteID': 'nmrsw', 'pageID': 'mgbolpjicokkbbofjaipjbidifhnacno', 'moduleID': 'mgccnoejcokkbbofjaipjbidifhnacno', 'moreURI': '/ecdomain/framework/nmrsw/mgbolpjicokkbbofjaipjbidifhnacno/mgccnoejcokkbbofjaipjbidifhnacno.do', 'var_temp': 'kjoafadnboaebboekdmcjknnpheemckj', 'currfolderid': 'null', 'showChildFlag': 'false', 'displayPageLinkFlag': 'true'}
