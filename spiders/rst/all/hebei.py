@@ -21,7 +21,7 @@ def parse_detail(html,url):
     print(data)
     save(data)
 
-
+#https://rst.hebei.gov.cn/a/tongzhi/2019/0531/7451.html
 def parse_index(html):
     doc=pq(html)
     items=doc(".typelist li a").items()

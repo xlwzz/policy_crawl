@@ -13,10 +13,10 @@ def parse_detail(html,url):
     doc=pq(html)
     data={}
     data["title"]=doc("title").text()
-    data["content"]=doc(".body").text().replace("\n","")
-    data["content_url"]=[item.attr("href") for item in doc(".body a").items()]
+    data["content"]=doc(".TRS_Editor").text().replace("\n","")
+    data["content_url"]=[item.attr("href") for item in doc(".TRS_Editor a").items()]
     data["publish_time"]=re.findall("(\d{4}-\d{1,2}-\d{1,2})",html)[0]
-    data["classification"]="河北省人力资源和社会保障厅"
+    data["classification"]="山西省人力资源和社会保障厅"
     data["url"]=url
     print(data)
     save(data)
@@ -27,12 +27,11 @@ def parse_index(html):
     items=doc(".second_right_ul li a").items()
     for item in items:
         url=item.attr("href")
-        if "http" not in url:
-            url="https://rst.hebei.gov.cn" + url
+        url="http://rst.shanxi.gov.cn/zwyw/tzgg"+url.replace("./","/")
         html=get(url)
         parse_detail(html,url)
         time.sleep(random.randint(1,3))
-
+        # break
 
 
 def main():
@@ -43,6 +42,7 @@ def main():
             url="http://rst.shanxi.gov.cn/zwyw/tzgg/index_"+ str(i)+".html"
         html=get(url)
         parse_index(html)
+        # break
 
 
 
