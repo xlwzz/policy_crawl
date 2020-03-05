@@ -41,4 +41,3 @@ if __name__ == "__main__":
         url="http://gxt.shanxi.gov.cn/sxgxtweb/sxgxt/list.jsp"    
         html=post(url,data=data,code="gbk")
         parse_index(html)
-        break
