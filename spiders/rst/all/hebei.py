@@ -34,6 +34,7 @@ def parse_index(html):
             errorlog.logger.error("url错误:%s"%url)
         parse_detail(html,url)
         time.sleep(random.randint(1,3))
+        print("123")
 
 
 def main():
