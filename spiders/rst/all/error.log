@@ -174,3 +174,330 @@
 2020-03-05 16:11:55,896 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jiangsu.py[line:37] - ERROR: url错误:http://jsrlzyshbz.jiangsu.gov.cn/art/2009/11/19/art_51036_6180234.html
 2020-03-05 17:38:30,300 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/anhui.py[line:44] - ERROR: url错误:http://hrss.ah.gov.cn/web/news/401/131891.html
 2020-03-05 17:38:53,330 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/anhui.py[line:44] - ERROR: url错误:http://hrss.ah.gov.cn/web/news/401/131890.html
+2020-03-05 18:48:15,422 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/anhui.py[line:44] - ERROR: url错误:http://hrss.ah.gov.cn/web/news/401/61441.html
+2020-03-06 09:21:57,241 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/jiangxi.py[line:23] - ERROR: url:http://rst.jiangxi.gov.cn/zkzp/index.jhtml 未找到publish_time
+2020-03-06 09:50:45,726 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/henan.py[line:23] - ERROR: url:http://www.hnrsks.com/LinkPage/TpNewnr.aspx?state=1&Id=3568 未找到publish_time
+2020-03-06 09:50:58,358 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/henan.py[line:23] - ERROR: url:http://www.hnrsks.com/LinkPage/TpNewnr.aspx?state=1&Id=3563 未找到publish_time
+2020-03-06 09:51:24,074 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/henan.py[line:23] - ERROR: url:http://www.hnrsks.com/LinkPage/TpNewnr.aspx?state=1&Id=3519 未找到publish_time
+2020-03-06 09:51:27,022 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/henan.py[line:23] - ERROR: url:http://www.hnrsks.com/LinkPage/TpNewnr.aspx?state=1&Id=3521 未找到publish_time
+2020-03-06 09:59:03,819 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/henan.py[line:42] - ERROR: url错误:http://hrss.henan.gov.cn//upload/201205//20120521163709942.doc
+2020-03-06 10:02:33,223 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/henan.py[line:42] - ERROR: url错误:http://hrss.henan.gov.cn//upload/081125/chinavvv_0811251452200020.doc
+2020-03-06 10:02:55,056 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/henan.py[line:42] - ERROR: url错误:http://hrss.henan.gov.cn//upload/080916/chinavvv_0809161611575800.doc
+2020-03-06 10:03:35,589 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/henan.py[line:42] - ERROR: url错误:http://hrss.henan.gov.cn//upload/080616/chinavvv_0806160951249300.doc
+2020-03-06 10:10:25,183 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://nynct.guizhou.gov.cn/zwgk/xxgkml/snwwj/qt/201912/t20191218_3937638.html?tdsourcetag=s_pctim_aiomsg,status_code:404
+2020-03-06 10:10:25,184 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://nynct.guizhou.gov.cn/zwgk/xxgkml/snwwj/qt/201912/t20191218_3937638.html?tdsourcetag=s_pctim_aiomsg
+2020-03-06 10:12:03,026 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201909/W020190909/W020190909585840441947.pdf
+2020-03-06 10:13:22,498 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.gzhfpc.gov.cn/xwzx/tzgg/201906/t20190603_3828922.html,status_code:404
+2020-03-06 10:13:22,498 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://www.gzhfpc.gov.cn/xwzx/tzgg/201906/t20190603_3828922.html
+2020-03-06 10:13:34,376 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.gzhfpc.gov.cn/xwzx/tzgg/201904/t20190429_3808741.html?tdsourcetag=s_pctim_aiomsg,status_code:404
+2020-03-06 10:13:34,377 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://www.gzhfpc.gov.cn/xwzx/tzgg/201904/t20190429_3808741.html?tdsourcetag=s_pctim_aiomsg
+2020-03-06 10:14:01,213 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.gzhfpc.gov.cn/xwzx/tzgg/201904/t20190418_3802568.html?tdsourcetag=s_pctim_aiomsg,status_code:404
+2020-03-06 10:14:01,213 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://www.gzhfpc.gov.cn/xwzx/tzgg/201904/t20190418_3802568.html?tdsourcetag=s_pctim_aiomsg
+2020-03-06 10:14:43,045 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201901/W020190122/W020190122609313883901.pdf
+2020-03-06 10:14:45,217 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201901/W020190122/W020190122558567126848.pdf
+2020-03-06 10:14:54,192 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201901/W020190108/W020190108414806816514.pdf
+2020-03-06 10:15:58,774 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201812/W020181206/W020181206527104960661.pdf
+2020-03-06 10:16:04,459 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:23] - ERROR: url:http://www.gzass.net.cn/xwzx/tzgg/201811/t20181129_3701534.html 未找到publish_time
+2020-03-06 10:16:07,883 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.gzhfpc.gov.cn/xwzx/tzgg/201811/t20181128_3700889.html?tdsourcetag=s_pctim_aiomsg,status_code:404
+2020-03-06 10:16:07,883 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://www.gzhfpc.gov.cn/xwzx/tzgg/201811/t20181128_3700889.html?tdsourcetag=s_pctim_aiomsg
+2020-03-06 10:16:09,076 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.gzhfpc.gov.cn/xwzx/tzgg/201811/t20181128_3700886.html?tdsourcetag=s_pctim_aiomsg,status_code:404
+2020-03-06 10:16:09,077 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://www.gzhfpc.gov.cn/xwzx/tzgg/201811/t20181128_3700886.html?tdsourcetag=s_pctim_aiomsg
+2020-03-06 10:16:17,943 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.gzhfpc.gov.cn/xwzx/tzgg/201811/t20181120_3694422.html?tdsourcetag=s_pctim_aiomsg,status_code:404
+2020-03-06 10:16:17,943 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://www.gzhfpc.gov.cn/xwzx/tzgg/201811/t20181120_3694422.html?tdsourcetag=s_pctim_aiomsg
+2020-03-06 10:16:33,816 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201811/W020181106/W020181106355226837935.pdf
+2020-03-06 10:16:41,849 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:webpic/W0201810/W020181019/W020181019637273607321.pdf
+2020-03-06 10:16:44,104 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201810/W020181008/W020181008574988864678.pdf
+2020-03-06 10:16:56,060 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.gzhfpc.gov.cn/xwzx/tzgg/201809/t20180914_3552836.html,status_code:404
+2020-03-06 10:16:56,061 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://www.gzhfpc.gov.cn/xwzx/tzgg/201809/t20180914_3552836.html
+2020-03-06 10:17:09,085 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37780&ClassID=552,status_code:404
+2020-03-06 10:17:09,085 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37780&ClassID=552
+2020-03-06 10:17:09,099 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37780&ClassID=552 未找到publish_time
+2020-03-06 10:17:11,263 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37767&ClassID=552,status_code:404
+2020-03-06 10:17:11,263 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37767&ClassID=552
+2020-03-06 10:17:11,267 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37767&ClassID=552 未找到publish_time
+2020-03-06 10:17:13,628 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37684&ClassID=560,status_code:404
+2020-03-06 10:17:13,629 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37684&ClassID=560
+2020-03-06 10:17:13,641 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37684&ClassID=560 未找到publish_time
+2020-03-06 10:17:14,953 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37642&ClassID=560,status_code:404
+2020-03-06 10:17:14,954 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37642&ClassID=560
+2020-03-06 10:17:14,964 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37642&ClassID=560 未找到publish_time
+2020-03-06 10:17:16,284 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37515&ClassID=552,status_code:404
+2020-03-06 10:17:16,284 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37515&ClassID=552
+2020-03-06 10:17:16,291 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37515&ClassID=552 未找到publish_time
+2020-03-06 10:17:18,618 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37480&ClassID=560,status_code:404
+2020-03-06 10:17:18,618 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37480&ClassID=560
+2020-03-06 10:17:18,631 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37480&ClassID=560 未找到publish_time
+2020-03-06 10:17:20,929 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37465&ClassID=560,status_code:404
+2020-03-06 10:17:20,930 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37465&ClassID=560
+2020-03-06 10:17:20,936 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37465&ClassID=560 未找到publish_time
+2020-03-06 10:17:22,273 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37436&ClassID=560,status_code:404
+2020-03-06 10:17:22,273 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37436&ClassID=560
+2020-03-06 10:17:22,289 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37436&ClassID=560 未找到publish_time
+2020-03-06 10:17:24,617 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37399&ClassID=560,status_code:404
+2020-03-06 10:17:24,618 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37399&ClassID=560
+2020-03-06 10:17:24,631 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37399&ClassID=560 未找到publish_time
+2020-03-06 10:17:25,947 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37334&ClassID=591,status_code:404
+2020-03-06 10:17:25,947 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37334&ClassID=591
+2020-03-06 10:17:25,953 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37334&ClassID=591 未找到publish_time
+2020-03-06 10:17:28,260 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37104&ClassID=573,status_code:404
+2020-03-06 10:17:28,261 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37104&ClassID=573
+2020-03-06 10:17:28,265 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37104&ClassID=573 未找到publish_time
+2020-03-06 10:17:28,767 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://58.16.65.210:92/preview/rst/zwgk/xxgkml/gggs/201809/W020180906408945836208.pdf
+2020-03-06 10:17:29,417 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37103&ClassID=573,status_code:404
+2020-03-06 10:17:29,418 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37103&ClassID=573
+2020-03-06 10:17:29,431 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37103&ClassID=573 未找到publish_time
+2020-03-06 10:17:31,583 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37053&ClassID=592,status_code:404
+2020-03-06 10:17:31,583 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37053&ClassID=592
+2020-03-06 10:17:31,596 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37053&ClassID=592 未找到publish_time
+2020-03-06 10:17:33,749 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37012&ClassID=592,status_code:404
+2020-03-06 10:17:33,749 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37012&ClassID=592
+2020-03-06 10:17:33,759 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37012&ClassID=592 未找到publish_time
+2020-03-06 10:17:34,920 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37073&ClassID=560,status_code:404
+2020-03-06 10:17:34,920 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37073&ClassID=560
+2020-03-06 10:17:34,933 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37073&ClassID=560 未找到publish_time
+2020-03-06 10:17:37,087 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36790&ClassID=560,status_code:404
+2020-03-06 10:17:37,087 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36790&ClassID=560
+2020-03-06 10:17:37,093 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36790&ClassID=560 未找到publish_time
+2020-03-06 10:17:39,258 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36410&ClassID=575,status_code:404
+2020-03-06 10:17:39,258 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36410&ClassID=575
+2020-03-06 10:17:39,270 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36410&ClassID=575 未找到publish_time
+2020-03-06 10:17:41,438 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36325&ClassID=591,status_code:404
+2020-03-06 10:17:41,438 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36325&ClassID=591
+2020-03-06 10:17:41,442 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36325&ClassID=591 未找到publish_time
+2020-03-06 10:17:43,599 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36661&ClassID=535,status_code:404
+2020-03-06 10:17:43,600 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36661&ClassID=535
+2020-03-06 10:17:43,618 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36661&ClassID=535 未找到publish_time
+2020-03-06 10:17:44,785 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36196&ClassID=560,status_code:404
+2020-03-06 10:17:44,785 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36196&ClassID=560
+2020-03-06 10:17:44,790 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=36196&ClassID=560 未找到publish_time
+2020-03-06 10:17:45,940 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37780&ClassID=552,status_code:404
+2020-03-06 10:17:45,941 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37780&ClassID=552
+2020-03-06 10:17:45,946 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37780&ClassID=552 未找到publish_time
+2020-03-06 10:17:48,107 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37767&ClassID=552,status_code:404
+2020-03-06 10:17:48,108 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:44] - ERROR: url错误:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37767&ClassID=552
+2020-03-06 10:17:48,114 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.jl.gov.cn/zcfbjjd/zcfb/NewsView.aspx?NewsID=37767&ClassID=552 未找到publish_time
+2020-03-06 10:18:13,289 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://58.16.65.210:92/preview/rst/zwgk/xxgkml/gggs/201808/W020180813550759968916.pdf
+2020-03-06 10:20:00,941 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://58.16.65.210:92/preview/rst/zwgk/xxgkml/gggs/201802/W020180208602897559465.pdf
+2020-03-06 10:20:09,267 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201801/W020180131/W020180131378263507811.pdf
+2020-03-06 10:20:29,878 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201712/W020171229/W020171229541912684520.pdf
+2020-03-06 10:20:33,477 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:/webpic/W0201712/W020171228/W020171228615798869788.pdf
+2020-03-06 10:20:52,950 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hainan.py[line:38] - ERROR: url错误:http://hrss.hainan.gov.cn/hrss/0400/201907/dae8492ac3794d5592b010671d921675.shtml
+2020-03-06 10:21:07,834 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:21:14,512 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:21:15,992 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/hainan.py[line:38] - ERROR: url错误:http://hrss.hainan.gov.cn/hrss/0400/201907/dae8492ac3794d5592b010671d921675.shtml
+2020-03-06 10:21:16,524 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:21:20,787 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:21:22,812 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:21:27,069 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:21:29,095 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:21:36,232 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:21:51,580 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=30505&ClassID=555 未找到publish_time
+2020-03-06 10:21:57,790 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:01,391 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:05,655 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:07,691 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:16,891 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:22,544 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:24,819 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:25,846 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:26,872 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:39,634 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:45,395 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:22:49,048 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:03,671 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=29111&ClassID=555 未找到publish_time
+2020-03-06 10:23:14,443 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:15,472 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:20,957 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:22,002 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:24,030 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:26,047 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:28,074 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:35,865 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:37,902 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:40,117 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:42,130 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:43,140 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:44,158 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:48,326 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:52,561 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:54,573 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:23:56,869 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:01,700 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:07,378 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:09,400 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:11,660 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:15,947 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:20,247 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:23,711 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:29,454 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=26960&ClassID=572 未找到publish_time
+2020-03-06 10:24:31,592 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24746&ClassID=572 未找到publish_time
+2020-03-06 10:24:32,766 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24745&ClassID=572 未找到publish_time
+2020-03-06 10:24:34,949 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24744&ClassID=572 未找到publish_time
+2020-03-06 10:24:35,201 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:36,137 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24743&ClassID=572 未找到publish_time
+2020-03-06 10:24:37,413 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:38,313 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=20161&ClassID=572 未找到publish_time
+2020-03-06 10:24:39,435 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:40,528 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=20160&ClassID=572 未找到publish_time
+2020-03-06 10:24:42,697 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=20159&ClassID=572 未找到publish_time
+2020-03-06 10:24:45,169 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:45,240 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4434&ClassID=572 未找到publish_time
+2020-03-06 10:24:46,412 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4433&ClassID=572 未找到publish_time
+2020-03-06 10:24:47,606 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4432&ClassID=572 未找到publish_time
+2020-03-06 10:24:48,785 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4431&ClassID=572 未找到publish_time
+2020-03-06 10:24:55,583 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:24:56,598 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:04,661 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:06,675 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:09,887 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:14,159 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:18,755 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=25664&ClassID=617 未找到publish_time
+2020-03-06 10:25:24,571 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:25,603 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:26,618 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:26,944 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=21852&ClassID=617 未找到publish_time
+2020-03-06 10:25:27,630 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:28,790 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:30,815 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:34,065 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24788&ClassID=555 未找到publish_time
+2020-03-06 10:25:34,493 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:42,249 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24740&ClassID=555 未找到publish_time
+2020-03-06 10:25:42,610 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:44,424 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24739&ClassID=555 未找到publish_time
+2020-03-06 10:25:45,614 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24741&ClassID=555 未找到publish_time
+2020-03-06 10:25:47,106 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:47,778 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24738&ClassID=555 未找到publish_time
+2020-03-06 10:25:49,140 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:25:49,940 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=24737&ClassID=555 未找到publish_time
+2020-03-06 10:25:51,160 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:02,627 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:16,391 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:18,429 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:21,426 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:23,472 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:24,495 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:25,718 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:26,782 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:33,527 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:40,450 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:43,693 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:44,727 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:45,749 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:49,013 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:51,168 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:53,178 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:26:54,218 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:27:20,189 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:27:30,511 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:27:32,528 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:27:44,703 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:27:45,734 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:28:06,391 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:28:08,408 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:None
+2020-03-06 10:30:24,232 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=20053&ClassID=555 未找到publish_time
+2020-03-06 10:30:58,499 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=21453&ClassID=555 未找到publish_time
+2020-03-06 10:30:59,648 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=21451&ClassID=555 未找到publish_time
+2020-03-06 10:31:31,435 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=21449&ClassID=555 未找到publish_time
+2020-03-06 10:32:15,702 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://rst.guizhou.gov.cn/zwgk/xxgkml/gggs/201711/t20171118_24987972.html
+2020-03-06 10:32:37,735 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/guizhou.py[line:37] - ERROR: url错误:http://rst.guizhou.gov.cn/zwgk/xxgkml/gggs/201711/t20171118_24987971.html
+2020-03-06 10:32:46,425 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=19133&ClassID=617 未找到publish_time
+2020-03-06 10:33:17,873 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=18946&ClassID=617 未找到publish_time
+2020-03-06 10:33:31,940 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=17170&ClassID=617 未找到publish_time
+2020-03-06 10:33:41,447 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=14067&ClassID=617 未找到publish_time
+2020-03-06 10:33:48,525 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=13271&ClassID=617 未找到publish_time
+2020-03-06 10:35:15,870 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=6625&ClassID=555 未找到publish_time
+2020-03-06 10:35:19,327 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=6348&ClassID=617 未找到publish_time
+2020-03-06 10:35:33,580 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=5533&ClassID=617 未找到publish_time
+2020-03-06 10:35:38,377 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=5293&ClassID=617 未找到publish_time
+2020-03-06 10:36:05,048 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4834&ClassID=617 未找到publish_time
+2020-03-06 10:38:00,579 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4479&ClassID=555 未找到publish_time
+2020-03-06 10:38:04,086 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4478&ClassID=555 未找到publish_time
+2020-03-06 10:38:08,887 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4475&ClassID=617 未找到publish_time
+2020-03-06 10:38:13,656 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4472&ClassID=617 未找到publish_time
+2020-03-06 10:38:18,113 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4470&ClassID=617 未找到publish_time
+2020-03-06 10:38:19,328 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4468&ClassID=617 未找到publish_time
+2020-03-06 10:38:21,445 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4469&ClassID=617 未找到publish_time
+2020-03-06 10:38:41,053 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4467&ClassID=617 未找到publish_time
+2020-03-06 10:38:43,181 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4466&ClassID=617 未找到publish_time
+2020-03-06 10:38:45,313 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4465&ClassID=617 未找到publish_time
+2020-03-06 10:38:46,446 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4464&ClassID=617 未找到publish_time
+2020-03-06 10:38:48,610 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4463&ClassID=617 未找到publish_time
+2020-03-06 10:38:50,737 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4462&ClassID=617 未找到publish_time
+2020-03-06 10:42:28,507 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4379&ClassID=555 未找到publish_time
+2020-03-06 10:42:29,641 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4378&ClassID=555 未找到publish_time
+2020-03-06 10:42:31,769 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4376&ClassID=555 未找到publish_time
+2020-03-06 10:42:32,911 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4375&ClassID=555 未找到publish_time
+2020-03-06 10:42:34,086 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4374&ClassID=555 未找到publish_time
+2020-03-06 10:42:35,238 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4373&ClassID=555 未找到publish_time
+2020-03-06 10:42:36,394 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4372&ClassID=555 未找到publish_time
+2020-03-06 10:42:38,546 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4371&ClassID=555 未找到publish_time
+2020-03-06 10:44:20,384 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4226&ClassID=617 未找到publish_time
+2020-03-06 10:44:26,182 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4223&ClassID=617 未找到publish_time
+2020-03-06 10:44:56,504 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4207&ClassID=617 未找到publish_time
+2020-03-06 10:45:42,391 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4189&ClassID=617 未找到publish_time
+2020-03-06 10:45:43,625 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4188&ClassID=617 未找到publish_time
+2020-03-06 10:45:47,053 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4186&ClassID=617 未找到publish_time
+2020-03-06 10:45:49,200 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4185&ClassID=617 未找到publish_time
+2020-03-06 10:46:26,377 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4173&ClassID=617 未找到publish_time
+2020-03-06 10:47:34,346 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4142&ClassID=617 未找到publish_time
+2020-03-06 10:48:13,134 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4132&ClassID=617 未找到publish_time
+2020-03-06 10:49:17,442 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4107&ClassID=617 未找到publish_time
+2020-03-06 10:49:19,597 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4106&ClassID=617 未找到publish_time
+2020-03-06 10:49:21,598 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/ningxia.py[line:41] - ERROR: url错误:http://hrss.nx.gov.cn/zcfg/cyjy/201901/P020190104618799221800.doc
+2020-03-06 10:49:21,755 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4105&ClassID=617 未找到publish_time
+2020-03-06 10:49:23,909 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4104&ClassID=617 未找到publish_time
+2020-03-06 10:49:26,043 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4103&ClassID=617 未找到publish_time
+2020-03-06 10:49:27,197 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4102&ClassID=617 未找到publish_time
+2020-03-06 10:49:29,354 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4101&ClassID=617 未找到publish_time
+2020-03-06 10:49:31,500 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4100&ClassID=617 未找到publish_time
+2020-03-06 10:49:31,647 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/ningxia.py[line:41] - ERROR: url错误:http://hrss.nx.gov.cn/zcfg/cyjy/201811/P020181129594543967625.docx
+2020-03-06 10:49:33,661 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4099&ClassID=617 未找到publish_time
+2020-03-06 10:49:40,472 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/ningxia.py[line:41] - ERROR: url错误:http://hrss.nx.gov.cn/zcfg/ldgx/201811/P020181114344722969281.doc
+2020-03-06 10:49:54,457 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4098&ClassID=617 未找到publish_time
+2020-03-06 10:49:58,986 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4093&ClassID=617 未找到publish_time
+2020-03-06 10:50:00,145 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4092&ClassID=617 未找到publish_time
+2020-03-06 10:50:01,305 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4091&ClassID=617 未找到publish_time
+2020-03-06 10:50:03,483 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4090&ClassID=617 未找到publish_time
+2020-03-06 10:50:04,646 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4089&ClassID=617 未找到publish_time
+2020-03-06 10:50:05,806 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4088&ClassID=617 未找到publish_time
+2020-03-06 10:50:07,959 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4087&ClassID=617 未找到publish_time
+2020-03-06 10:50:10,108 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4086&ClassID=617 未找到publish_time
+2020-03-06 10:50:23,494 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4074&ClassID=617 未找到publish_time
+2020-03-06 10:50:48,390 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4070&ClassID=617 未找到publish_time
+2020-03-06 10:50:49,540 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4069&ClassID=617 未找到publish_time
+2020-03-06 10:50:51,686 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4068&ClassID=617 未找到publish_time
+2020-03-06 10:50:53,826 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4067&ClassID=617 未找到publish_time
+2020-03-06 10:50:55,978 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4066&ClassID=617 未找到publish_time
+2020-03-06 10:50:57,125 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4065&ClassID=617 未找到publish_time
+2020-03-06 10:50:59,273 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4064&ClassID=617 未找到publish_time
+2020-03-06 10:51:01,434 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4063&ClassID=617 未找到publish_time
+2020-03-06 10:51:05,955 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4061&ClassID=617 未找到publish_time
+2020-03-06 10:51:07,095 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4060&ClassID=617 未找到publish_time
+2020-03-06 10:51:08,240 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4059&ClassID=617 未找到publish_time
+2020-03-06 10:51:09,383 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4058&ClassID=617 未找到publish_time
+2020-03-06 10:51:10,534 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4057&ClassID=617 未找到publish_time
+2020-03-06 10:51:12,689 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4056&ClassID=617 未找到publish_time
+2020-03-06 10:51:13,846 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4055&ClassID=617 未找到publish_time
+2020-03-06 10:51:14,993 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4054&ClassID=617 未找到publish_time
+2020-03-06 10:51:16,138 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4053&ClassID=617 未找到publish_time
+2020-03-06 10:51:18,292 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4052&ClassID=617 未找到publish_time
+2020-03-06 10:51:19,427 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4051&ClassID=617 未找到publish_time
+2020-03-06 10:51:40,276 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4050&ClassID=617 未找到publish_time
+2020-03-06 10:51:42,425 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4049&ClassID=617 未找到publish_time
+2020-03-06 10:51:43,583 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4048&ClassID=617 未找到publish_time
+2020-03-06 10:51:44,724 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4047&ClassID=617 未找到publish_time
+2020-03-06 10:51:45,863 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4046&ClassID=617 未找到publish_time
+2020-03-06 10:51:48,011 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4045&ClassID=617 未找到publish_time
+2020-03-06 10:51:50,148 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4044&ClassID=617 未找到publish_time
+2020-03-06 10:52:51,974 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4020&ClassID=617 未找到publish_time
+2020-03-06 10:52:54,140 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4019&ClassID=617 未找到publish_time
+2020-03-06 10:52:55,280 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4018&ClassID=617 未找到publish_time
+2020-03-06 10:52:57,423 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4017&ClassID=617 未找到publish_time
+2020-03-06 10:52:59,569 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4016&ClassID=617 未找到publish_time
+2020-03-06 10:53:01,693 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4015&ClassID=617 未找到publish_time
+2020-03-06 10:53:02,850 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4014&ClassID=617 未找到publish_time
+2020-03-06 10:53:04,992 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4013&ClassID=617 未找到publish_time
+2020-03-06 10:53:06,135 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4012&ClassID=617 未找到publish_time
+2020-03-06 10:53:08,287 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4011&ClassID=617 未找到publish_time
+2020-03-06 10:53:28,810 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4010&ClassID=617 未找到publish_time
+2020-03-06 10:53:30,951 - D:/PycharmProject/工作/policy/policy_crawl/spiders/rst/all/yunnan.py[line:25] - ERROR: url:http://hrss.yn.gov.cn//NewsView.aspx?NewsID=4009&ClassID=617 未找到publish_time

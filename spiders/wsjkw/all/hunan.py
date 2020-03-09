@@ -1,6 +1,5 @@
 import re
 import time
-import random 
 
 from pyquery import PyQuery as pq
 from policy_crawl.common.fetch import get,post
@@ -9,7 +8,7 @@ from policy_crawl.common.logger import alllog,errorlog
 
 
 def parse_detail(html,url):
-    alllog.logger.info("吉林省人力资源和社会保障厅: %s"%url)
+    alllog.logger.info("湖南省卫健委: %s"%url)
     doc=pq(html)
     data={}
     data["title"]=doc("title").text()
@@ -23,20 +22,21 @@ def parse_detail(html,url):
         data["publish_time"]=""
         errorlog.logger.error("url:%s 未找到publish_time"%url)
     if not data["content"]:
-        data["content"]=doc(".Custom_UnionStyle").text()
-        data["content_url"]=doc(".Custom_UnionStyle a").text()
-    data["classification"]="吉林省人力资源和社会保障厅"
+        data["content"]=doc("#j-show-body").text()
+        data["content_url"] = [item.attr("href") for item in doc("#j-show-body a").items()]
+    data["classification"]="湖南省卫健委"
     data["url"]=url
     print(data)
     save(data)
 
 def parse_index(html):
     doc=pq(html)
-    items=doc(".news_list4 li a:nth-child(2)").items()
+    items=doc(".table_list_st tr a").items()
     for item in items:
         url=item.attr("href")
         if "http" not in url:
-            url="http://hrss.jl.gov.cn/zcfbjjd/zcfb" + url.replace("./","/")
+            url="http://wjw.hunan.gov.cn" + url
+        print(url)
         try:
             html=get(url)
         except:
@@ -45,12 +45,12 @@ def parse_index(html):
         time.sleep(1)
 
 def main():
-    for i in range(0,29):
+    for i in range(1,3):
         print(i)
-        if i==0:
-            url="http://hrss.jl.gov.cn/zcfbjjd/zcfb/index.html"
+        if i==1:
+            url="http://wjw.hunan.gov.cn/wjw/xxgk/ghjh/index.html"
         else:
-            url="http://hrss.jl.gov.cn/zcfbjjd/zcfb/index_"+str(i)+".html"
+            url="http://wjw.hunan.gov.cn/wjw/xxgk/ghjh/index_"+str(i)+".html"
         html=get(url)
         parse_index(html)
 

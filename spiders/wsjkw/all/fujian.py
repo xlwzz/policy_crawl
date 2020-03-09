@@ -1,6 +1,6 @@
 import re
 import time
-import random 
+import json
 
 from pyquery import PyQuery as pq
 from policy_crawl.common.fetch import get,post
@@ -9,7 +9,7 @@ from policy_crawl.common.logger import alllog,errorlog
 
 
 def parse_detail(html,url):
-    alllog.logger.info("吉林省人力资源和社会保障厅: %s"%url)
+    alllog.logger.info("福建省卫健委: %s"%url)
     doc=pq(html)
     data={}
     data["title"]=doc("title").text()
@@ -22,39 +22,36 @@ def parse_detail(html,url):
     except:
         data["publish_time"]=""
         errorlog.logger.error("url:%s 未找到publish_time"%url)
-    if not data["content"]:
-        data["content"]=doc(".Custom_UnionStyle").text()
-        data["content_url"]=doc(".Custom_UnionStyle a").text()
-    data["classification"]="吉林省人力资源和社会保障厅"
     data["url"]=url
     print(data)
     save(data)
 
 def parse_index(html):
-    doc=pq(html)
-    items=doc(".news_list4 li a:nth-child(2)").items()
+    print(html.replace("\r\n","").replace(" ","").replace("\n",""))
+    data=json.loads(html.replace("\r\n","").replace(" ","").replace("\n","").replace("\u3000",""))
+    items=data["docs"]
     for item in items:
-        url=item.attr("href")
-        if "http" not in url:
-            url="http://hrss.jl.gov.cn/zcfbjjd/zcfb" + url.replace("./","/")
         try:
-            html=get(url)
+            data={}
+            data["title"]=item["title"]
+            data["content"]=item["content"]
+            data["content_url"]=""
+            data["publish_time"]=item["pubtime"]
+            data["classification"] = "福建省卫健委"
+            data["url"]=item["url"]
+            print(data)
+            save(data)
         except:
-            errorlog.logger.error("url错误:%s"%url)
-        parse_detail(html,url)
-        time.sleep(1)
+            pass
+
 
 def main():
-    for i in range(0,29):
+    url="http://wjw.fujian.gov.cn/was5/web/search?"
+    for i in range(1,18):
         print(i)
-        if i==0:
-            url="http://hrss.jl.gov.cn/zcfbjjd/zcfb/index.html"
-        else:
-            url="http://hrss.jl.gov.cn/zcfbjjd/zcfb/index_"+str(i)+".html"
-        html=get(url)
+        params={'sortfield': '-docreltime', 'templet': 'docs.jsp', 'channelid': '285300', 'classsql': 'chnlid=1708', 'prepage': '20', 'page': str(i), 'r': '0.9923656153603353'}
+        html=get(url,params=params)
         parse_index(html)
-
-
 
 
 if __name__ == '__main__':
