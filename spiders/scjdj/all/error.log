@@ -1,0 +1,211 @@
+2020-03-09 14:47:45,971 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:39] - ERROR: url错误:None
+2020-03-09 14:47:46,996 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:39] - ERROR: url错误:None
+2020-03-09 14:47:48,348 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_2 未找到publish_time
+2020-03-09 14:47:49,684 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:48:18,539 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:48:19,923 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:48:21,281 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_3 未找到publish_time
+2020-03-09 14:48:22,622 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:48:51,404 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:48:52,746 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_2 未找到publish_time
+2020-03-09 14:48:54,104 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_4 未找到publish_time
+2020-03-09 14:48:55,440 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:49:26,207 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:49:27,630 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_3 未找到publish_time
+2020-03-09 14:49:29,150 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_5 未找到publish_time
+2020-03-09 14:49:30,519 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:50:00,070 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:50:01,460 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_4 未找到publish_time
+2020-03-09 14:50:02,997 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_6 未找到publish_time
+2020-03-09 14:50:04,355 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:50:34,444 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:50:36,126 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_5 未找到publish_time
+2020-03-09 14:50:37,562 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:50:38,941 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:50:59,461 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:51:00,817 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_6 未找到publish_time
+2020-03-09 14:51:01,819 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:39] - ERROR: url错误:None
+2020-03-09 14:51:01,824 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:None 未找到publish_time
+2020-03-09 14:51:02,827 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:39] - ERROR: url错误:None
+2020-03-09 14:51:02,832 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:None 未找到publish_time
+2020-03-09 14:53:13,346 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_2 未找到publish_time
+2020-03-09 14:53:14,742 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:53:44,715 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:53:46,071 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:53:47,552 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_3 未找到publish_time
+2020-03-09 14:53:48,879 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:54:19,085 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:54:20,504 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_2 未找到publish_time
+2020-03-09 14:54:22,060 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_4 未找到publish_time
+2020-03-09 14:54:23,385 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:54:54,008 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:54:55,386 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_3 未找到publish_time
+2020-03-09 14:54:56,870 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_5 未找到publish_time
+2020-03-09 14:54:58,220 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:55:27,947 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:55:29,328 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_4 未找到publish_time
+2020-03-09 14:55:30,811 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_6 未找到publish_time
+2020-03-09 14:55:32,143 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:56:02,334 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:56:03,766 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_5 未找到publish_time
+2020-03-09 14:56:05,107 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:56:06,442 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_7 未找到publish_time
+2020-03-09 14:56:26,457 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565 未找到publish_time
+2020-03-09 14:56:27,905 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hebei.py[line:23] - ERROR: url:http://scjg.hebei.gov.cn//node/565_6 未找到publish_time
+2020-03-09 15:06:26,720 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://gkml.samr.gov.cn/nsjg/fgs/201908/t20190820_306141.html,status_code:404
+2020-03-09 15:06:26,721 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/liaoning.py[line:37] - ERROR: url错误:http://gkml.samr.gov.cn/nsjg/fgs/201908/t20190820_306141.html
+2020-03-09 15:07:19,988 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://gkml.samr.gov.cn/nsjg/fgs/201908/t20190820_306136.html,status_code:404
+2020-03-09 15:07:19,989 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/liaoning.py[line:37] - ERROR: url错误:http://gkml.samr.gov.cn/nsjg/fgs/201908/t20190820_306136.html
+2020-03-09 15:07:32,060 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://gkml.samr.gov.cn/nsjg/fgs/201908/t20190823_306211.html,status_code:404
+2020-03-09 15:07:32,061 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/liaoning.py[line:37] - ERROR: url错误:http://gkml.samr.gov.cn/nsjg/fgs/201908/t20190823_306211.html
+2020-03-09 15:11:25,121 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201912/t20191231_723864.html
+2020-03-09 15:12:14,720 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201912/t20191226_722284.html
+2020-03-09 15:14:27,159 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201912/t20191220_716741.html
+2020-03-09 15:14:54,770 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201912/t20191219_715214.html
+2020-03-09 15:16:52,475 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201912/t20191206_688456.html
+2020-03-09 15:23:20,435 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201910/t20191015_640335.html
+2020-03-09 15:29:54,824 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201908/t20190827_626087.html
+2020-03-09 15:31:58,289 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201908/t20190827_626077.html
+2020-03-09 15:33:43,270 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201908/t20190827_626072.html
+2020-03-09 15:34:46,891 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201908/t20190827_626068.html
+2020-03-09 15:35:08,907 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201908/t20190827_626066.html
+2020-03-09 15:35:30,934 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201908/t20190827_626067.html
+2020-03-09 15:37:23,813 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201908/t20190827_626062.html
+2020-03-09 15:37:41,610 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:37] - ERROR: url错误:http://yjsgk.jsczt.cn/front/glwj/pdf_show.do?uuid=10d25bb6a7b04225877c7ea9c6150ee6
+2020-03-09 15:37:43,318 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:37] - ERROR: url错误:http://yjsgk.jsczt.cn/front/budgetfinal/pdf_show.do?iid=218176
+2020-03-09 15:38:15,299 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201908/t20190827_626058.html
+2020-03-09 15:38:21,524 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201912/t20191224_634498.html 未找到publish_time
+2020-03-09 15:38:22,595 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201912/t20191224_634499.html 未找到publish_time
+2020-03-09 15:38:55,153 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/gkzbgg/shengji/201912/t20191212_629830.html 未找到publish_time
+2020-03-09 15:38:55,331 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201908/t20190827_626055.html
+2020-03-09 15:39:16,247 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201912/t20191202_625504.html 未找到publish_time
+2020-03-09 15:39:28,788 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/gkzbgg/shengji/201911/t20191122_622234.html 未找到publish_time
+2020-03-09 15:39:29,852 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/gkzbgg/shengji/201911/t20191122_622235.html 未找到publish_time
+2020-03-09 15:39:34,063 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201911/t20191121_621842.html 未找到publish_time
+2020-03-09 15:39:35,127 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201911/t20191119_620735.html 未找到publish_time
+2020-03-09 15:39:36,912 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201906/t20190628_580211.html
+2020-03-09 15:39:51,825 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/gkzbgg/shengji/201911/t20191113_607247.html 未找到publish_time
+2020-03-09 15:39:55,067 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201911/t20191111_606483.html 未找到publish_time
+2020-03-09 15:39:57,505 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201911/t20191107_605284.html 未找到publish_time
+2020-03-09 15:40:27,517 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201910/t20191011_528267.html?tdsourcetag=s_pcqq_aiomsg 未找到publish_time
+2020-03-09 15:40:38,798 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/gkzbgg/shengji/201910/t20191009_527337.html 未找到publish_time
+2020-03-09 15:40:51,529 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201909/t20190925_524829.html 未找到publish_time
+2020-03-09 15:41:56,190 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:37] - ERROR: url错误:http://101.132.91.127/yjsgk/front/budgetfinal/departmentpreview_show.do?uuid=%27e9ecbe1b191748aebfafe1ea6476bbd9%27&channel=18&groupid=1
+2020-03-09 15:42:07,999 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/202001/t20200103_724581.html
+2020-03-09 15:42:18,221 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:37] - ERROR: url错误:http://101.132.91.127/yjsgk/front/budgetfinal/departmentpreview_show.do?uuid=%27c963c125871e49c2850638f09410d69d%27&channel=18&groupid=1
+2020-03-09 15:42:20,445 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/gkzbgg/shengji/201908/t20190822_514156.html 未找到publish_time
+2020-03-09 15:42:26,615 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/gkzbgg/shengji/201908/t20190816_512536.html 未找到publish_time
+2020-03-09 15:42:27,670 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201908/t20190816_512529.html 未找到publish_time
+2020-03-09 15:43:36,494 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201908/t20190802_508069.html 未找到publish_time
+2020-03-09 15:43:37,553 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/jzqsgg/shengji/201907/t20190731_507184.html 未找到publish_time
+2020-03-09 15:43:47,141 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:23] - ERROR: url:http://www.ccgp-jiangsu.gov.cn/ggxx/gkzbgg/nanjing/201907/t20190712_500968.html 未找到publish_time
+2020-03-09 15:44:19,971 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://amr.hainan.gov.cn/zw./201909/P020190902424524921167.pdf,status_code:404
+2020-03-09 15:44:19,971 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hainan.py[line:39] - ERROR: url错误:http://amr.hainan.gov.cn/zw./201909/P020190902424524921167.pdf
+2020-03-09 15:44:21,075 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://amr.hainan.gov.cn/zw./201908/t20190807_2647038.html,status_code:404
+2020-03-09 15:44:21,075 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hainan.py[line:39] - ERROR: url错误:http://amr.hainan.gov.cn/zw./201908/t20190807_2647038.html
+2020-03-09 15:44:22,191 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://amr.hainan.gov.cn/zw./201907/t20190730_2642015.html,status_code:404
+2020-03-09 15:44:22,191 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hainan.py[line:39] - ERROR: url错误:http://amr.hainan.gov.cn/zw./201907/t20190730_2642015.html
+2020-03-09 15:44:23,450 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://amr.hainan.gov.cn/zw./201904/P020190403320140636011.pdf,status_code:404
+2020-03-09 15:44:23,450 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hainan.py[line:39] - ERROR: url错误:http://amr.hainan.gov.cn/zw./201904/P020190403320140636011.pdf
+2020-03-09 15:44:24,564 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://amr.hainan.gov.cn/zw./201812/t20181228_2024321.html,status_code:404
+2020-03-09 15:44:24,564 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hainan.py[line:39] - ERROR: url错误:http://amr.hainan.gov.cn/zw./201812/t20181228_2024321.html
+2020-03-09 15:44:25,673 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://amr.hainan.gov.cn/zw./201812/t20181228_2024320.html,status_code:404
+2020-03-09 15:44:25,674 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hainan.py[line:39] - ERROR: url错误:http://amr.hainan.gov.cn/zw./201812/t20181228_2024320.html
+2020-03-09 15:44:26,768 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://amr.hainan.gov.cn/zw./201812/t20181228_2024319.html,status_code:404
+2020-03-09 15:44:26,769 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hainan.py[line:39] - ERROR: url错误:http://amr.hainan.gov.cn/zw./201812/t20181228_2024319.html
+2020-03-09 15:44:27,865 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://amr.hainan.gov.cn/zw./201812/t20181228_2024379.html,status_code:404
+2020-03-09 15:44:27,866 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hainan.py[line:39] - ERROR: url错误:http://amr.hainan.gov.cn/zw./201812/t20181228_2024379.html
+2020-03-09 15:44:28,964 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://amr.hainan.gov.cn/zw./201812/t20181228_2024318.html,status_code:404
+2020-03-09 15:44:28,965 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hainan.py[line:39] - ERROR: url错误:http://amr.hainan.gov.cn/zw./201812/t20181228_2024318.html
+2020-03-09 15:44:42,665 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hunan.py[line:39] - ERROR: url错误:http://fda.hunan.gov.cn/xxgk_71325/tzgg/tzgg/201810/t20181024_5147645.html
+2020-03-09 15:44:43,747 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://zjj.hunan.gov.cn/xxgk/tzgg/201810/t20181023_5147225.html,status_code:404
+2020-03-09 15:44:43,747 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hunan.py[line:39] - ERROR: url错误:http://zjj.hunan.gov.cn/xxgk/tzgg/201810/t20181023_5147225.html
+2020-03-09 15:44:44,819 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://ipo.hunan.gov.cn/xxgk/tzgg/201810/t20181022_5145846.html,status_code:404
+2020-03-09 15:44:44,819 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hunan.py[line:39] - ERROR: url错误:http://ipo.hunan.gov.cn/xxgk/tzgg/201810/t20181022_5145846.html
+2020-03-09 15:44:45,906 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://gsj.hunan.gov.cn/xxgk/tzgg/201810/t20181022_5145647.html,status_code:404
+2020-03-09 15:44:45,906 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hunan.py[line:39] - ERROR: url错误:http://gsj.hunan.gov.cn/xxgk/tzgg/201810/t20181022_5145647.html
+2020-03-09 15:44:48,131 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://ipo.hunan.gov.cn/xxgk/tzgg/201810/t20181019_5134813.html,status_code:404
+2020-03-09 15:44:48,131 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/hunan.py[line:39] - ERROR: url错误:http://ipo.hunan.gov.cn/xxgk/tzgg/201810/t20181019_5134813.html
+2020-03-09 15:45:50,641 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jiangsu.py[line:37] - ERROR: url错误:http://101.132.91.127/yjsgk/list.do
+2020-03-09 15:48:11,330 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201904/t20190410_555636.html
+2020-03-09 15:49:54,352 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201903/t20190313_549196.html
+2020-03-09 15:51:58,081 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201902/t20190218_542362.html
+2020-03-09 15:53:09,275 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201901/t20190115_537104.html
+2020-03-09 15:55:25,002 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201812/t20181211_528066.html
+2020-03-09 15:59:17,181 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/ningxia.py[line:36] - ERROR: url错误:http://scjg.nx.gov.cn/article/1746.html
+2020-03-09 15:59:39,192 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/ningxia.py[line:36] - ERROR: url错误:http://scjg.nx.gov.cn/article/1657.html
+2020-03-09 16:01:24,822 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201808/t20180809_469203.html
+2020-03-09 16:01:58,906 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201807/t20180731_466357.html
+2020-03-09 16:04:44,111 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201806/t20180611_434808.html
+2020-03-09 16:06:42,583 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201805/t20180516_425423.html
+2020-03-09 16:08:54,513 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201804/t20180408_414066.html
+2020-03-09 16:08:58,967 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:37] - ERROR: url错误:html/govpub/2020-02-28-0000009a202002260002.html
+2020-03-09 16:08:59,970 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:37] - ERROR: url错误:html/govpub/2019-12-31-0000009a201912310011.html
+2020-03-09 16:09:00,974 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:37] - ERROR: url错误:html/govpub/2019-12-20-0000009a201912040013.html
+2020-03-09 16:09:01,979 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:37] - ERROR: url错误:html/govpub/2019-12-20-0000009a201912040012.html
+2020-03-09 16:10:27,132 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201804/t20180410_415210.html
+2020-03-09 16:11:13,876 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201803/t20180319_408167.html
+2020-03-09 16:12:16,324 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:17,376 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:18,425 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:19,481 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:20,676 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201803/t20180306_404346.html
+2020-03-09 16:12:22,646 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:23,795 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:24,848 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:29,040 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:35,488 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:43,871 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:44,976 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:46,038 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:47,161 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:12:49,273 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/shanghai.py[line:23] - ERROR: url:http://scjgj.sh.gov.cn/shaic/publish!apply.action 未找到publish_time
+2020-03-09 16:13:42,327 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201804/t20180410_415207.html
+2020-03-09 16:16:40,985 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201801/t20180119_384774.html
+2020-03-09 16:17:29,035 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201801/t20180118_384470.html
+2020-03-09 16:18:58,865 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201712/t20171227_368179.html
+2020-03-09 16:20:43,714 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201712/t20171213_360216.html
+2020-03-09 16:22:53,302 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201711/t20171103_341244.html
+2020-03-09 16:27:05,843 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201709/t20170912_328049.html
+2020-03-09 16:28:15,552 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201709/t20170903_321540.html
+2020-03-09 16:28:37,586 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/jilin.py[line:39] - ERROR: url错误:http://gsj.jlcity.gov.cn/gsgg/201708/t20170828_317226.html
+2020-03-09 16:32:41,576 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/tianjin.py[line:39] - ERROR: url错误:http://scjg.tj.gov.cn/zwgk/gzwj/20554.html
+2020-03-09 16:33:03,591 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/tianjin.py[line:39] - ERROR: url错误:http://scjg.tj.gov.cn/zwgk/gzwj/20553.html
+2020-03-09 16:33:31,631 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/nanjing.py[line:36] - ERROR: url错误:http://amr.nanjing.gov.cn/gkml/202001/t20200106_1765110.html
+2020-03-09 16:33:53,662 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/nanjing.py[line:36] - ERROR: url错误:http://amr.nanjing.gov.cn/gkml/202001/t20200106_1765106.html
+2020-03-09 16:36:44,568 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=16&deptid=5691
+2020-03-09 16:36:45,578 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:37:05,022 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:37:06,034 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:37:07,048 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=31&deptid=5691
+2020-03-09 16:37:08,068 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:37:27,050 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:37:28,068 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=16&deptid=5691
+2020-03-09 16:37:29,082 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=46&deptid=5691
+2020-03-09 16:37:30,098 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:37:49,530 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:37:50,539 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=31&deptid=5691
+2020-03-09 16:37:51,558 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=61&deptid=5691
+2020-03-09 16:37:52,575 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:38:11,837 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:38:12,848 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=46&deptid=5691
+2020-03-09 16:38:13,870 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=76&deptid=5691
+2020-03-09 16:38:14,884 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:38:34,538 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:38:35,564 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=61&deptid=5691
+2020-03-09 16:38:36,575 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=91&deptid=5691
+2020-03-09 16:38:37,589 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:38:57,030 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:38:58,048 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=76&deptid=5691
+2020-03-09 16:38:59,066 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=106&deptid=5691
+2020-03-09 16:39:00,074 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:39:19,189 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:39:20,197 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=91&deptid=5691
+2020-03-09 16:39:21,214 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=121&deptid=5691
+2020-03-09 16:39:22,224 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:39:41,205 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:39:42,214 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=106&deptid=5691
+2020-03-09 16:39:43,226 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:39:44,237 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=136&deptid=5691
+2020-03-09 16:39:58,377 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=1&deptid=5691
+2020-03-09 16:39:59,392 - D:/PycharmProject/工作/policy/policy_crawl/spiders/scjdj/all/wuhan.py[line:37] - ERROR: url错误:?offset=121&deptid=5691

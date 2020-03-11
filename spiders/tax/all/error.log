@@ -1,0 +1,625 @@
+2020-03-10 11:17:44,299 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143687/content.html 未找到publish_time
+2020-03-10 11:17:45,380 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143592/content.html,status_code:403
+2020-03-10 11:17:45,380 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:39] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143592/content.html
+2020-03-10 11:17:45,427 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143592/content.html 未找到publish_time
+2020-03-10 11:24:58,980 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143687/content.html 未找到publish_time
+2020-03-10 11:25:00,083 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143592/content.html,status_code:403
+2020-03-10 11:25:00,123 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143592/content.html
+2020-03-10 11:25:00,151 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143592/content.html 未找到publish_time
+2020-03-10 11:25:01,219 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143593/content.html,status_code:403
+2020-03-10 11:25:01,219 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143593/content.html
+2020-03-10 11:25:01,265 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143593/content.html 未找到publish_time
+2020-03-10 11:25:02,346 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143587/content.html,status_code:403
+2020-03-10 11:25:02,346 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143587/content.html
+2020-03-10 11:25:02,381 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143587/content.html 未找到publish_time
+2020-03-10 11:25:03,441 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143466/content.html,status_code:403
+2020-03-10 11:25:03,441 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143466/content.html
+2020-03-10 11:25:03,474 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143466/content.html 未找到publish_time
+2020-03-10 11:25:04,562 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143464/content.html,status_code:403
+2020-03-10 11:25:04,562 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143464/content.html
+2020-03-10 11:25:04,595 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143464/content.html 未找到publish_time
+2020-03-10 11:25:08,473 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143135/content.html,status_code:403
+2020-03-10 11:25:08,473 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143135/content.html
+2020-03-10 11:25:09,561 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=%E6%9C%80%E6%96%B0%E6%96%87%E4%BB%B6&_keyWH=wenhao&page=2,status_code:403
+2020-03-10 11:39:59,540 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142584/content.html,status_code:403
+2020-03-10 11:39:59,541 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142584/content.html
+2020-03-10 11:40:01,803 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142092/content.html,status_code:403
+2020-03-10 11:40:01,803 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142092/content.html
+2020-03-10 11:40:02,887 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142149/content.html,status_code:403
+2020-03-10 11:40:02,887 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142149/content.html
+2020-03-10 11:40:03,950 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142086/content.html,status_code:403
+2020-03-10 11:40:03,950 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142086/content.html
+2020-03-10 11:40:06,079 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142344/content.html,status_code:403
+2020-03-10 11:40:06,079 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142344/content.html
+2020-03-10 11:40:07,167 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142065/content.html,status_code:403
+2020-03-10 11:40:07,167 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142065/content.html
+2020-03-10 11:40:08,263 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142143/content.html,status_code:403
+2020-03-10 11:40:08,264 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142143/content.html
+2020-03-10 11:40:09,369 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142023/content.html,status_code:403
+2020-03-10 11:40:09,369 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142023/content.html
+2020-03-10 11:40:10,483 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142072/content.html,status_code:403
+2020-03-10 11:40:10,483 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142072/content.html
+2020-03-10 11:40:11,568 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142712/content.html,status_code:403
+2020-03-10 11:40:11,568 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142712/content.html
+2020-03-10 11:40:12,646 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141891/content.html,status_code:403
+2020-03-10 11:40:12,646 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141891/content.html
+2020-03-10 11:40:13,699 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142008/content.html,status_code:403
+2020-03-10 11:40:13,700 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142008/content.html
+2020-03-10 11:40:19,749 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=%E6%9C%80%E6%96%B0%E6%96%87%E4%BB%B6&_keyWH=wenhao&page=3,status_code:403
+2020-03-10 11:56:48,355 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140560/content.html,status_code:403
+2020-03-10 11:56:48,356 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140560/content.html
+2020-03-10 11:56:51,415 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140642/content.html,status_code:403
+2020-03-10 11:56:51,415 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140642/content.html
+2020-03-10 11:56:53,485 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142104/content.html,status_code:403
+2020-03-10 11:56:53,486 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5142104/content.html
+2020-03-10 11:56:55,567 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140928/content.html,status_code:403
+2020-03-10 11:56:55,567 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140928/content.html
+2020-03-10 11:56:56,632 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140513/content.html,status_code:403
+2020-03-10 11:56:56,633 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140513/content.html
+2020-03-10 11:56:58,688 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140181/content.html,status_code:403
+2020-03-10 11:56:58,689 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140181/content.html
+2020-03-10 11:57:00,747 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140182/content.html,status_code:403
+2020-03-10 11:57:00,748 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140182/content.html
+2020-03-10 11:57:02,821 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140651/content.html,status_code:403
+2020-03-10 11:57:02,821 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140651/content.html
+2020-03-10 11:57:05,886 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139992/content.html,status_code:403
+2020-03-10 11:57:05,887 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139992/content.html
+2020-03-10 11:57:09,957 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140116/content.html,status_code:403
+2020-03-10 11:57:09,958 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140116/content.html
+2020-03-10 11:57:11,015 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139649/content.html,status_code:403
+2020-03-10 11:57:11,015 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139649/content.html
+2020-03-10 11:57:13,083 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140112/content.html,status_code:403
+2020-03-10 11:57:13,084 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140112/content.html
+2020-03-10 11:57:16,170 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139577/content.html,status_code:403
+2020-03-10 11:57:16,170 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139577/content.html
+2020-03-10 11:57:18,273 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139189/content.html,status_code:403
+2020-03-10 11:57:18,273 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139189/content.html
+2020-03-10 11:57:22,320 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139220/content.html,status_code:403
+2020-03-10 11:57:22,320 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139220/content.html
+2020-03-10 11:57:28,371 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=%E6%9C%80%E6%96%B0%E6%96%87%E4%BB%B6&_keyWH=wenhao&page=4,status_code:403
+2020-03-10 12:16:21,185 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5138275/content.html,status_code:403
+2020-03-10 12:16:21,186 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5138275/content.html
+2020-03-10 12:16:24,276 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5138164/content.html,status_code:403
+2020-03-10 12:16:24,276 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5138164/content.html
+2020-03-10 12:16:28,411 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5138312/content.html,status_code:403
+2020-03-10 12:16:28,411 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5138312/content.html
+2020-03-10 12:16:30,527 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137754/content.html,status_code:403
+2020-03-10 12:16:30,528 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137754/content.html
+2020-03-10 12:16:32,612 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137709/content.html,status_code:403
+2020-03-10 12:16:32,612 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137709/content.html
+2020-03-10 12:16:33,697 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137883/content.html,status_code:403
+2020-03-10 12:16:33,699 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137883/content.html
+2020-03-10 12:16:34,806 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137322/content.html,status_code:403
+2020-03-10 12:16:34,807 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137322/content.html
+2020-03-10 12:16:35,901 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136975/content.html,status_code:403
+2020-03-10 12:16:35,901 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136975/content.html
+2020-03-10 12:16:38,991 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136976/content.html,status_code:403
+2020-03-10 12:16:38,992 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136976/content.html
+2020-03-10 12:16:42,157 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136446/content.html,status_code:403
+2020-03-10 12:16:42,158 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136446/content.html
+2020-03-10 12:16:46,470 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136311/content.html,status_code:403
+2020-03-10 12:16:46,471 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136311/content.html
+2020-03-10 12:16:47,595 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136297/content.html,status_code:403
+2020-03-10 12:16:47,595 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136297/content.html
+2020-03-10 12:16:51,657 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141519/content.html,status_code:403
+2020-03-10 12:16:51,658 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141519/content.html
+2020-03-10 12:16:53,749 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136343/content.html,status_code:403
+2020-03-10 12:16:53,749 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136343/content.html
+2020-03-10 12:16:57,876 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141517/content.html,status_code:403
+2020-03-10 12:16:57,876 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141517/content.html
+2020-03-10 12:17:05,949 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=%E6%9C%80%E6%96%B0%E6%96%87%E4%BB%B6&_keyWH=wenhao&page=5,status_code:403
+2020-03-10 13:30:32,015 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4577889/content.html 未找到publish_time
+2020-03-10 13:30:34,116 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136071/content.html,status_code:403
+2020-03-10 13:30:34,117 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136071/content.html
+2020-03-10 13:30:34,137 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136071/content.html 未找到publish_time
+2020-03-10 13:30:35,233 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135326/content.html,status_code:403
+2020-03-10 13:30:35,234 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135326/content.html
+2020-03-10 13:30:35,252 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135326/content.html 未找到publish_time
+2020-03-10 13:30:38,335 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135370/content.html,status_code:403
+2020-03-10 13:30:38,335 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135370/content.html
+2020-03-10 13:30:38,349 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135370/content.html 未找到publish_time
+2020-03-10 13:30:45,431 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135348/content.html,status_code:403
+2020-03-10 13:30:45,432 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135348/content.html
+2020-03-10 13:30:45,459 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135348/content.html 未找到publish_time
+2020-03-10 13:30:50,573 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559725/content.html,status_code:403
+2020-03-10 13:30:50,573 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559725/content.html
+2020-03-10 13:30:50,581 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559725/content.html 未找到publish_time
+2020-03-10 13:30:53,689 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4541026/content.html,status_code:403
+2020-03-10 13:30:53,689 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4541026/content.html
+2020-03-10 13:30:53,695 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4541026/content.html 未找到publish_time
+2020-03-10 13:30:58,834 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136392/content.html,status_code:403
+2020-03-10 13:30:58,834 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136392/content.html
+2020-03-10 13:30:58,840 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136392/content.html 未找到publish_time
+2020-03-10 13:31:08,911 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551146/content.html,status_code:403
+2020-03-10 13:31:08,911 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551146/content.html
+2020-03-10 13:31:08,920 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551146/content.html 未找到publish_time
+2020-03-10 13:31:16,116 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551134/content.html,status_code:403
+2020-03-10 13:31:16,117 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551134/content.html
+2020-03-10 13:31:16,123 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551134/content.html 未找到publish_time
+2020-03-10 13:31:23,225 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135371/content.html,status_code:403
+2020-03-10 13:31:23,226 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135371/content.html
+2020-03-10 13:31:23,232 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135371/content.html 未找到publish_time
+2020-03-10 13:31:29,365 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4536962/content.html,status_code:403
+2020-03-10 13:31:29,365 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4536962/content.html
+2020-03-10 13:31:29,376 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4536962/content.html 未找到publish_time
+2020-03-10 13:31:34,757 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4527620/content.html,status_code:403
+2020-03-10 13:31:34,757 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4527620/content.html
+2020-03-10 13:31:34,762 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4527620/content.html 未找到publish_time
+2020-03-10 13:31:39,894 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559672/content.html,status_code:403
+2020-03-10 13:31:39,895 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559672/content.html
+2020-03-10 13:31:39,902 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559672/content.html 未找到publish_time
+2020-03-10 13:31:47,960 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4482087/content.html,status_code:403
+2020-03-10 13:31:47,961 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4482087/content.html
+2020-03-10 13:31:47,975 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:23] - ERROR: url:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4482087/content.html 未找到publish_time
+2020-03-10 13:32:00,049 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=%E6%9C%80%E6%96%B0%E6%96%87%E4%BB%B6&_keyWH=wenhao&page=6,status_code:403
+2020-03-10 13:39:45,658 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=6,status_code:403
+2020-03-10 13:43:19,982 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hebei.py[line:35] - ERROR: url错误:http://hebei.chinatax.gov.cn/hbsw/sszc/zxwj/201905/P020190520668188602516.pdf
+2020-03-10 13:43:37,892 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hebei.py[line:35] - ERROR: url错误:http://hebei.chinatax.gov.cn/hbsw/sszc/zxwj/201904/P020190422616273818079.pdf
+2020-03-10 13:44:29,151 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4458068/content.html,status_code:403
+2020-03-10 13:44:29,151 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4458068/content.html
+2020-03-10 13:44:38,239 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4457706/content.html,status_code:403
+2020-03-10 13:44:38,239 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4457706/content.html
+2020-03-10 13:44:42,303 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4457383/content.html,status_code:403
+2020-03-10 13:44:42,304 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4457383/content.html
+2020-03-10 13:44:47,395 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4428218/content.html,status_code:403
+2020-03-10 13:44:47,395 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4428218/content.html
+2020-03-10 13:44:50,484 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4454219/content.html,status_code:403
+2020-03-10 13:44:50,484 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4454219/content.html
+2020-03-10 13:44:58,577 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4453783/content.html,status_code:403
+2020-03-10 13:44:58,578 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4453783/content.html
+2020-03-10 13:45:02,865 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hebei.py[line:35] - ERROR: url错误:http://hebei.chinatax.gov.cn/hbsw/sszc/zxwj/201902/P020190211623348432285.pdf
+2020-03-10 13:45:04,685 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4446611/content.html,status_code:403
+2020-03-10 13:45:04,686 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4446611/content.html
+2020-03-10 13:45:11,905 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4469363/content.html,status_code:403
+2020-03-10 13:45:11,905 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4469363/content.html
+2020-03-10 13:45:16,975 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4416845/content.html,status_code:403
+2020-03-10 13:45:16,976 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4416845/content.html
+2020-03-10 13:45:24,049 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4404754/content.html,status_code:403
+2020-03-10 13:45:24,050 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4404754/content.html
+2020-03-10 13:45:28,140 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4388806/content.html,status_code:403
+2020-03-10 13:45:28,141 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4388806/content.html
+2020-03-10 13:45:37,393 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4399746/content.html,status_code:403
+2020-03-10 13:45:37,394 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4399746/content.html
+2020-03-10 13:45:44,500 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hebei.py[line:23] - ERROR: url:http://hebei.chinatax.gov.cn/hbsw/sszc/zxwj/201901/t20190131_1939008.html 未找到publish_time
+2020-03-10 13:45:45,564 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4377559/content.html,status_code:403
+2020-03-10 13:45:45,565 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4377559/content.html
+2020-03-10 13:45:54,631 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4400721/content.html,status_code:403
+2020-03-10 13:45:54,631 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4400721/content.html
+2020-03-10 13:45:57,699 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4380772/content.html,status_code:403
+2020-03-10 13:45:57,700 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4380772/content.html
+2020-03-10 13:46:04,914 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=7,status_code:403
+2020-03-10 13:50:32,249 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1684928
+2020-03-10 13:51:31,054 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-164714
+2020-03-10 13:58:44,413 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706806,status_code:503
+2020-03-10 13:58:44,413 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706806
+2020-03-10 13:58:45,577 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706805,status_code:503
+2020-03-10 13:58:45,577 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706805
+2020-03-10 13:58:46,754 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706792,status_code:503
+2020-03-10 13:58:46,755 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706792
+2020-03-10 13:58:47,926 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706791,status_code:503
+2020-03-10 13:58:47,926 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706791
+2020-03-10 13:58:49,135 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1707014,status_code:503
+2020-03-10 13:58:49,136 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1707014
+2020-03-10 13:58:50,295 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706573,status_code:503
+2020-03-10 13:58:50,295 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706573
+2020-03-10 13:58:51,432 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706929,status_code:503
+2020-03-10 13:58:51,432 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706929
+2020-03-10 13:58:52,582 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706488,status_code:503
+2020-03-10 13:58:52,583 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706488
+2020-03-10 13:58:53,756 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706490,status_code:503
+2020-03-10 13:58:53,757 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706490
+2020-03-10 13:58:54,936 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706489,status_code:503
+2020-03-10 13:58:54,936 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706489
+2020-03-10 13:58:56,092 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706214,status_code:503
+2020-03-10 13:58:56,093 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1706214
+2020-03-10 13:58:57,218 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/common/extQuery?,status_code:502
+2020-03-10 14:09:05,021 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1694619,status_code:404
+2020-03-10 14:09:05,022 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/shanxi.py[line:36] - ERROR: url错误:http://shanxi.chinatax.gov.cn/web/detail/sx-11400-545-1694619
+2020-03-10 14:09:05,059 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hebei.py[line:35] - ERROR: url错误:http://hebei.chinatax.gov.cn/hbsw/sszc/zxwj/201805/t20180509_1739282.html
+2020-03-10 14:09:27,446 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hebei.py[line:35] - ERROR: url错误:http://hebei.chinatax.gov.cn/hbsw/sszc/zxwj/201805/t20180509_1739311.html
+2020-03-10 14:32:09,438 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hebei.py[line:35] - ERROR: url错误:http://hebei.chinatax.gov.cn/hbsw/sszc/zxwj/201805/t20180509_1738620.html
+2020-03-10 14:32:31,518 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hebei.py[line:35] - ERROR: url错误:http://hebei.chinatax.gov.cn/hbsw/sszc/zxwj/201805/t20180509_1738584.html
+2020-03-10 14:57:32,966 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/3/3/art_8409_81383.html
+2020-03-10 14:57:33,973 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/29/art_8409_81379.html
+2020-03-10 14:57:34,978 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/28/art_8409_81381.html
+2020-03-10 14:57:35,988 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/27/art_8409_81375.html
+2020-03-10 14:57:36,993 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/25/art_8409_81377.html
+2020-03-10 14:57:37,995 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/21/art_8409_81371.html
+2020-03-10 14:57:38,999 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/20/art_8409_81373.html
+2020-03-10 14:57:40,011 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/20/art_8409_81369.html
+2020-03-10 14:57:41,013 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/18/art_8409_81367.html
+2020-03-10 14:57:42,019 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/17/art_8409_81364.html
+2020-03-10 14:57:43,027 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/12/art_8409_81362.html
+2020-03-10 14:57:44,035 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/10/art_8409_81360.html
+2020-03-10 14:57:45,043 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/10/art_8409_81358.html
+2020-03-10 14:57:46,046 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/10/art_8409_81354.html
+2020-03-10 14:57:47,157 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/6/art_8409_81350.html
+2020-03-10 14:57:48,162 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/6/art_8409_81348.html
+2020-03-10 14:57:49,168 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/6/art_8409_81346.html
+2020-03-10 14:57:50,176 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/2/1/art_8409_81340.html
+2020-03-10 14:57:51,191 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/1/30/art_8409_81342.html
+2020-03-10 14:57:52,205 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/1/21/art_8409_81337.html
+2020-03-10 14:57:53,209 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/1/20/art_8409_81335.html
+2020-03-10 14:57:54,226 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/1/19/art_8409_81331.html
+2020-03-10 14:57:55,228 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/1/17/art_8409_81344.html
+2020-03-10 14:57:56,231 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/1/8/art_8409_81310.html
+2020-03-10 14:57:57,239 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2020/1/8/art_8409_81308.html
+2020-03-10 14:57:58,240 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2019/12/31/art_8409_81293.html
+2020-03-10 14:57:59,252 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2019/12/31/art_8409_81295.html
+2020-03-10 14:58:00,262 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2019/12/31/art_8409_81297.html
+2020-03-10 14:58:01,268 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2019/12/31/art_8409_81265.html
+2020-03-10 14:58:02,272 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:37] - ERROR: url错误:%2Fart/2019/12/31/art_8409_81281.html
+2020-03-10 14:58:11,772 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/3/3/art_8409_81383.html
+2020-03-10 14:58:12,783 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/29/art_8409_81379.html
+2020-03-10 14:58:13,789 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/28/art_8409_81381.html
+2020-03-10 14:58:14,801 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/27/art_8409_81375.html
+2020-03-10 14:58:15,817 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/25/art_8409_81377.html
+2020-03-10 14:58:16,833 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/21/art_8409_81371.html
+2020-03-10 14:58:17,836 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/20/art_8409_81373.html
+2020-03-10 14:58:18,846 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/20/art_8409_81369.html
+2020-03-10 14:58:19,855 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/18/art_8409_81367.html
+2020-03-10 14:58:20,866 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/17/art_8409_81364.html
+2020-03-10 14:58:21,869 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/12/art_8409_81362.html
+2020-03-10 14:58:22,876 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/10/art_8409_81360.html
+2020-03-10 14:58:23,883 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/10/art_8409_81358.html
+2020-03-10 14:58:24,887 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/10/art_8409_81354.html
+2020-03-10 14:58:25,892 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/6/art_8409_81350.html
+2020-03-10 14:58:26,904 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/6/art_8409_81348.html
+2020-03-10 14:58:27,916 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/6/art_8409_81346.html
+2020-03-10 14:58:28,931 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/2/1/art_8409_81340.html
+2020-03-10 14:58:29,945 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/1/30/art_8409_81342.html
+2020-03-10 14:58:30,949 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/1/21/art_8409_81337.html
+2020-03-10 14:58:31,952 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/1/20/art_8409_81335.html
+2020-03-10 14:58:32,960 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/1/19/art_8409_81331.html
+2020-03-10 14:58:33,982 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/1/17/art_8409_81344.html
+2020-03-10 14:58:34,998 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/1/8/art_8409_81310.html
+2020-03-10 14:58:36,021 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2020/1/8/art_8409_81308.html
+2020-03-10 14:58:37,032 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2019/12/31/art_8409_81293.html
+2020-03-10 14:58:38,043 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2019/12/31/art_8409_81295.html
+2020-03-10 14:58:39,064 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2019/12/31/art_8409_81297.html
+2020-03-10 14:58:40,080 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2019/12/31/art_8409_81265.html
+2020-03-10 14:58:41,091 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/zhejiang.py[line:36] - ERROR: url错误:http://zhejiang.chinatax.gov.cn%2Fart/2019/12/31/art_8409_81281.html
+2020-03-10 15:03:45,837 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/3/5/art_13773_31038.htm,status_code:404
+2020-03-10 15:03:45,837 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/3/5/art_13773_31038.htm
+2020-03-10 15:03:46,901 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/3/5/art_13773_31036.htm,status_code:404
+2020-03-10 15:03:46,902 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/3/5/art_13773_31036.htm
+2020-03-10 15:03:47,968 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/3/4/art_13773_30644.htm,status_code:404
+2020-03-10 15:03:47,968 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/3/4/art_13773_30644.htm
+2020-03-10 15:03:49,036 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/28/art_13773_30110.htm,status_code:404
+2020-03-10 15:03:49,036 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/28/art_13773_30110.htm
+2020-03-10 15:03:50,106 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/29/art_13773_30107.htm,status_code:404
+2020-03-10 15:03:50,106 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/29/art_13773_30107.htm
+2020-03-10 15:03:51,164 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/28/art_13773_29972.htm,status_code:404
+2020-03-10 15:03:51,164 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/28/art_13773_29972.htm
+2020-03-10 15:03:52,225 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/27/art_13773_29700.htm,status_code:404
+2020-03-10 15:03:52,226 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/27/art_13773_29700.htm
+2020-03-10 15:03:53,304 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/27/art_13773_29837.htm,status_code:404
+2020-03-10 15:03:53,305 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/27/art_13773_29837.htm
+2020-03-10 15:03:54,600 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/25/art_13773_29703.htm,status_code:404
+2020-03-10 15:03:54,601 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/25/art_13773_29703.htm
+2020-03-10 15:03:55,650 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29026.htm,status_code:404
+2020-03-10 15:03:55,651 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29026.htm
+2020-03-10 15:03:56,701 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29023.htm,status_code:404
+2020-03-10 15:03:56,701 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29023.htm
+2020-03-10 15:03:57,755 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29020.htm,status_code:404
+2020-03-10 15:03:57,755 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29020.htm
+2020-03-10 15:03:58,802 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/19/art_13773_28753.htm,status_code:404
+2020-03-10 15:03:58,802 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/19/art_13773_28753.htm
+2020-03-10 15:03:59,849 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/18/art_13773_28750.htm,status_code:404
+2020-03-10 15:03:59,850 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/18/art_13773_28750.htm
+2020-03-10 15:04:00,919 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/10/art_13773_28744.htm,status_code:404
+2020-03-10 15:04:00,920 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/10/art_13773_28744.htm
+2020-03-10 15:04:01,974 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/10/art_13773_28741.htm,status_code:404
+2020-03-10 15:04:01,974 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/10/art_13773_28741.htm
+2020-03-10 15:04:03,021 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28341.htm,status_code:404
+2020-03-10 15:04:03,021 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28341.htm
+2020-03-10 15:04:04,060 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28338.htm,status_code:404
+2020-03-10 15:04:04,060 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28338.htm
+2020-03-10 15:04:05,107 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28335.htm,status_code:404
+2020-03-10 15:04:05,108 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28335.htm
+2020-03-10 15:04:06,150 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/6/art_13773_28200.htm,status_code:404
+2020-03-10 15:04:06,150 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/6/art_13773_28200.htm
+2020-03-10 15:04:07,201 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/3/art_13773_27259.htm,status_code:404
+2020-03-10 15:04:07,202 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/3/art_13773_27259.htm
+2020-03-10 15:04:08,248 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/31/art_13773_28607.htm,status_code:404
+2020-03-10 15:04:08,249 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/31/art_13773_28607.htm
+2020-03-10 15:04:09,296 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/31/art_13773_26716.htm,status_code:404
+2020-03-10 15:04:09,297 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/31/art_13773_26716.htm
+2020-03-10 15:04:10,351 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/22/art_13773_27262.htm,status_code:404
+2020-03-10 15:04:10,352 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/22/art_13773_27262.htm
+2020-03-10 15:04:11,426 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/21/art_13773_27397.htm,status_code:404
+2020-03-10 15:04:11,427 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/21/art_13773_27397.htm
+2020-03-10 15:04:12,503 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/21/art_13773_29428.htm,status_code:404
+2020-03-10 15:04:12,504 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/21/art_13773_29428.htm
+2020-03-10 15:04:13,571 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/20/art_13773_26986.htm,status_code:404
+2020-03-10 15:04:13,572 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/20/art_13773_26986.htm
+2020-03-10 15:04:14,632 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/18/art_13773_27256.htm,status_code:404
+2020-03-10 15:04:14,632 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:36] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/18/art_13773_27256.htm
+2020-03-10 15:05:08,076 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/3/5/art_13773_31038.htm,status_code:404
+2020-03-10 15:05:08,077 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/3/5/art_13773_31038.htm
+2020-03-10 15:05:09,150 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/3/5/art_13773_31036.htm,status_code:404
+2020-03-10 15:05:09,150 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/3/5/art_13773_31036.htm
+2020-03-10 15:05:10,213 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/3/4/art_13773_30644.htm,status_code:404
+2020-03-10 15:05:10,214 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/3/4/art_13773_30644.htm
+2020-03-10 15:05:11,277 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/28/art_13773_30110.htm,status_code:404
+2020-03-10 15:05:11,277 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/28/art_13773_30110.htm
+2020-03-10 15:05:12,338 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/29/art_13773_30107.htm,status_code:404
+2020-03-10 15:05:12,338 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/29/art_13773_30107.htm
+2020-03-10 15:05:13,402 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/28/art_13773_29972.htm,status_code:404
+2020-03-10 15:05:13,402 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/28/art_13773_29972.htm
+2020-03-10 15:05:14,477 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/27/art_13773_29700.htm,status_code:404
+2020-03-10 15:05:14,477 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/27/art_13773_29700.htm
+2020-03-10 15:05:15,547 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/27/art_13773_29837.htm,status_code:404
+2020-03-10 15:05:15,548 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/27/art_13773_29837.htm
+2020-03-10 15:05:16,619 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/25/art_13773_29703.htm,status_code:404
+2020-03-10 15:05:16,620 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/25/art_13773_29703.htm
+2020-03-10 15:05:17,681 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29026.htm,status_code:404
+2020-03-10 15:05:17,682 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29026.htm
+2020-03-10 15:05:18,757 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29023.htm,status_code:404
+2020-03-10 15:05:18,758 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29023.htm
+2020-03-10 15:05:19,821 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29020.htm,status_code:404
+2020-03-10 15:05:19,822 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/21/art_13773_29020.htm
+2020-03-10 15:05:20,888 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/19/art_13773_28753.htm,status_code:404
+2020-03-10 15:05:20,889 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/19/art_13773_28753.htm
+2020-03-10 15:05:21,957 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/18/art_13773_28750.htm,status_code:404
+2020-03-10 15:05:21,957 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/18/art_13773_28750.htm
+2020-03-10 15:05:23,017 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/10/art_13773_28744.htm,status_code:404
+2020-03-10 15:05:23,017 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/10/art_13773_28744.htm
+2020-03-10 15:05:24,082 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/10/art_13773_28741.htm,status_code:404
+2020-03-10 15:05:24,082 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/10/art_13773_28741.htm
+2020-03-10 15:05:25,140 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28341.htm,status_code:404
+2020-03-10 15:05:25,140 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28341.htm
+2020-03-10 15:05:26,206 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28338.htm,status_code:404
+2020-03-10 15:05:26,206 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28338.htm
+2020-03-10 15:05:27,283 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28335.htm,status_code:404
+2020-03-10 15:05:27,283 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/7/art_13773_28335.htm
+2020-03-10 15:05:28,349 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/6/art_13773_28200.htm,status_code:404
+2020-03-10 15:05:28,349 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/6/art_13773_28200.htm
+2020-03-10 15:05:29,740 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/2/3/art_13773_27259.htm,status_code:404
+2020-03-10 15:05:29,741 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/2/3/art_13773_27259.htm
+2020-03-10 15:05:30,802 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/31/art_13773_28607.htm,status_code:404
+2020-03-10 15:05:30,803 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/31/art_13773_28607.htm
+2020-03-10 15:05:31,873 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/31/art_13773_26716.htm,status_code:404
+2020-03-10 15:05:31,873 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/31/art_13773_26716.htm
+2020-03-10 15:05:32,955 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/22/art_13773_27262.htm,status_code:404
+2020-03-10 15:05:32,955 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/22/art_13773_27262.htm
+2020-03-10 15:05:34,026 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/21/art_13773_27397.htm,status_code:404
+2020-03-10 15:05:34,027 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/21/art_13773_27397.htm
+2020-03-10 15:05:35,092 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/21/art_13773_29428.htm,status_code:404
+2020-03-10 15:05:35,092 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/21/art_13773_29428.htm
+2020-03-10 15:05:36,148 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/20/art_13773_26986.htm,status_code:404
+2020-03-10 15:05:36,148 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/20/art_13773_26986.htm
+2020-03-10 15:05:37,219 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/18/art_13773_27256.htm,status_code:404
+2020-03-10 15:05:37,219 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/18/art_13773_27256.htm
+2020-03-10 15:05:38,288 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/15/art_13773_26582.htm,status_code:404
+2020-03-10 15:05:38,289 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/15/art_13773_26582.htm
+2020-03-10 15:05:39,357 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/9/art_13773_27402.htm,status_code:404
+2020-03-10 15:05:39,358 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/9/art_13773_27402.htm
+2020-03-10 15:05:40,432 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/8/art_13773_26851.htm,status_code:404
+2020-03-10 15:05:40,433 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/8/art_13773_26851.htm
+2020-03-10 15:05:41,498 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2020/1/2/art_13773_27584.htm,status_code:404
+2020-03-10 15:05:41,499 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2020/1/2/art_13773_27584.htm
+2020-03-10 15:05:42,552 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/31/art_13773_26039.htm,status_code:404
+2020-03-10 15:05:42,553 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/31/art_13773_26039.htm
+2020-03-10 15:05:43,601 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/31/art_13773_25904.htm,status_code:404
+2020-03-10 15:05:43,601 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/31/art_13773_25904.htm
+2020-03-10 15:05:44,658 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/31/art_13773_25769.htm,status_code:404
+2020-03-10 15:05:44,658 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/31/art_13773_25769.htm
+2020-03-10 15:05:45,699 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/30/art_13773_26173.htm,status_code:404
+2020-03-10 15:05:45,700 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/30/art_13773_26173.htm
+2020-03-10 15:05:46,746 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/27/art_13773_26306.htm,status_code:404
+2020-03-10 15:05:46,746 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/27/art_13773_26306.htm
+2020-03-10 15:05:47,796 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/20/art_13773_29426.htm,status_code:404
+2020-03-10 15:05:47,797 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/20/art_13773_29426.htm
+2020-03-10 15:05:48,840 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/7/art_13773_17983.htm,status_code:404
+2020-03-10 15:05:48,840 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/7/art_13773_17983.htm
+2020-03-10 15:05:49,899 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/4/art_13773_17980.htm,status_code:404
+2020-03-10 15:05:49,900 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/4/art_13773_17980.htm
+2020-03-10 15:05:50,945 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/4/art_13773_17977.htm,status_code:404
+2020-03-10 15:05:50,945 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/4/art_13773_17977.htm
+2020-03-10 15:05:51,992 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/12/3/art_13773_17974.htm,status_code:404
+2020-03-10 15:05:51,992 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/12/3/art_13773_17974.htm
+2020-03-10 15:05:53,038 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/11/27/art_13773_17971.htm,status_code:404
+2020-03-10 15:05:53,038 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/11/27/art_13773_17971.htm
+2020-03-10 15:05:54,090 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://anhui.chinatax.gov.cn/art/2019/11/26/art_13773_1449.htm,status_code:404
+2020-03-10 15:05:54,091 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/anhui.py[line:37] - ERROR: url错误:http://anhui.chinatax.gov.cn/art/2019/11/26/art_13773_1449.htm
+2020-03-10 15:19:20,020 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144759/content.html,status_code:403
+2020-03-10 15:19:20,021 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144759/content.html
+2020-03-10 15:19:29,103 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144752/content.html,status_code:403
+2020-03-10 15:19:29,104 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144752/content.html
+2020-03-10 15:19:35,213 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144708/content.html,status_code:403
+2020-03-10 15:19:35,214 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144708/content.html
+2020-03-10 15:19:38,313 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144863/content.html,status_code:403
+2020-03-10 15:19:38,313 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144863/content.html
+2020-03-10 15:19:47,398 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144203/content.html,status_code:403
+2020-03-10 15:19:47,398 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144203/content.html
+2020-03-10 15:19:54,480 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144080/content.html,status_code:403
+2020-03-10 15:19:54,480 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144080/content.html
+2020-03-10 15:20:02,591 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143687/content.html,status_code:403
+2020-03-10 15:20:02,592 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143687/content.html
+2020-03-10 15:20:11,712 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143593/content.html,status_code:403
+2020-03-10 15:20:11,713 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143593/content.html
+2020-03-10 15:20:17,861 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143587/content.html,status_code:403
+2020-03-10 15:20:17,862 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143587/content.html
+2020-03-10 15:20:27,921 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143466/content.html,status_code:403
+2020-03-10 15:20:27,922 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143466/content.html
+2020-03-10 15:20:31,024 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143464/content.html,status_code:403
+2020-03-10 15:20:31,024 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143464/content.html
+2020-03-10 15:20:36,291 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143155/content.html,status_code:403
+2020-03-10 15:20:36,291 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143155/content.html
+2020-03-10 15:20:39,375 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143135/content.html,status_code:403
+2020-03-10 15:20:39,375 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143135/content.html
+2020-03-10 15:20:53,438 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=1,status_code:403
+2020-03-10 15:50:52,937 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144863/content.html,status_code:403
+2020-03-10 15:50:52,937 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144863/content.html
+2020-03-10 15:50:58,016 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144203/content.html,status_code:403
+2020-03-10 15:50:58,016 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144203/content.html
+2020-03-10 15:51:02,134 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144080/content.html,status_code:403
+2020-03-10 15:51:02,135 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5144080/content.html
+2020-03-10 15:51:06,212 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143687/content.html,status_code:403
+2020-03-10 15:51:06,213 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143687/content.html
+2020-03-10 15:51:12,349 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143593/content.html,status_code:403
+2020-03-10 15:51:12,349 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143593/content.html
+2020-03-10 15:51:21,444 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143587/content.html,status_code:403
+2020-03-10 15:51:21,444 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143587/content.html
+2020-03-10 15:51:23,544 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143466/content.html,status_code:403
+2020-03-10 15:51:23,545 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143466/content.html
+2020-03-10 15:51:33,664 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143464/content.html,status_code:403
+2020-03-10 15:51:33,665 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143464/content.html
+2020-03-10 15:51:36,844 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143465/content.html,status_code:403
+2020-03-10 15:51:36,845 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143465/content.html
+2020-03-10 15:51:43,978 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143155/content.html,status_code:403
+2020-03-10 15:51:43,979 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143155/content.html
+2020-03-10 15:51:52,067 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143135/content.html,status_code:403
+2020-03-10 15:51:52,068 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5143135/content.html
+2020-03-10 15:51:59,165 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=2,status_code:403
+2020-03-10 15:54:12,044 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/jiangxi.py[line:35] - ERROR: url错误:http://jiangxi.chinatax.gov.cn/art/2018/6/15/art_31884_19045.html
+2020-03-10 15:54:13,115 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/jiangxi.py[line:35] - ERROR: url错误:http://jiangxi.chinatax.gov.cn/art/2018/5/3/art_31884_19084.html
+2020-03-10 15:54:14,180 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/jiangxi.py[line:35] - ERROR: url错误:http://jiangxi.chinatax.gov.cn/art/2017/3/28/art_31884_19071.html
+2020-03-10 16:14:29,788 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140928/content.html,status_code:403
+2020-03-10 16:14:29,788 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140928/content.html
+2020-03-10 16:14:34,885 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140513/content.html,status_code:403
+2020-03-10 16:14:34,886 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140513/content.html
+2020-03-10 16:14:52,328 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140651/content.html,status_code:403
+2020-03-10 16:14:52,328 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140651/content.html
+2020-03-10 16:15:10,566 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140116/content.html,status_code:403
+2020-03-10 16:15:10,567 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140116/content.html
+2020-03-10 16:15:14,643 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139649/content.html,status_code:403
+2020-03-10 16:15:14,643 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139649/content.html
+2020-03-10 16:15:19,698 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140112/content.html,status_code:403
+2020-03-10 16:15:19,699 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5140112/content.html
+2020-03-10 16:15:27,822 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139577/content.html,status_code:403
+2020-03-10 16:15:27,823 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139577/content.html
+2020-03-10 16:15:28,983 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139189/content.html,status_code:403
+2020-03-10 16:15:28,984 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139189/content.html
+2020-03-10 16:15:32,056 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139220/content.html,status_code:403
+2020-03-10 16:15:32,056 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5139220/content.html
+2020-03-10 16:15:44,113 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=4,status_code:403
+2020-03-10 16:41:07,562 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hubei.py[line:36] - ERROR: url错误:http://hubei.chinatax.gov.cn/hbsw/zcwj/zxwj/167244.htm
+2020-03-10 16:41:07,576 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hubei.py[line:23] - ERROR: url:http://hubei.chinatax.gov.cn/hbsw/zcwj/zxwj/167244.htm 未找到publish_time
+2020-03-10 16:41:08,694 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hubei.py[line:36] - ERROR: url错误:http://hubei.chinatax.gov.cn/hbsw/zcwj/zxwj/167243.htm
+2020-03-10 16:41:08,713 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hubei.py[line:23] - ERROR: url:http://hubei.chinatax.gov.cn/hbsw/zcwj/zxwj/167243.htm 未找到publish_time
+2020-03-10 16:41:09,852 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hubei.py[line:36] - ERROR: url错误:http://hubei.chinatax.gov.cn/hbsw/zcwj/zxwj/167092.htm
+2020-03-10 16:41:09,870 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hubei.py[line:23] - ERROR: url:http://hubei.chinatax.gov.cn/hbsw/zcwj/zxwj/167092.htm 未找到publish_time
+2020-03-10 16:41:11,048 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hubei.py[line:36] - ERROR: url错误:http://hubei.chinatax.gov.cn/hbsw/zcwj/zxwj/167119.htm
+2020-03-10 16:41:11,067 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/hubei.py[line:23] - ERROR: url:http://hubei.chinatax.gov.cn/hbsw/zcwj/zxwj/167119.htm 未找到publish_time
+2020-03-10 17:09:27,553 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201809/t20180917_254874.html
+2020-03-10 17:09:28,707 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201809/t20180917_254875.html
+2020-03-10 17:09:29,831 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201809/t20180917_254873.html
+2020-03-10 17:09:30,956 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201809/t20180917_254883.html
+2020-03-10 17:09:32,145 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201809/t20180917_254884.html
+2020-03-10 17:09:33,269 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201809/t20180917_254881.html
+2020-03-10 17:09:34,415 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201809/t20180917_254882.html
+2020-03-10 17:09:35,577 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201809/t20180917_254880.html
+2020-03-10 17:15:34,777 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137883/content.html,status_code:403
+2020-03-10 17:15:34,777 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137883/content.html
+2020-03-10 17:15:37,869 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137322/content.html,status_code:403
+2020-03-10 17:15:37,870 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5137322/content.html
+2020-03-10 17:15:47,951 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136975/content.html,status_code:403
+2020-03-10 17:15:47,951 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136975/content.html
+2020-03-10 17:15:50,061 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136976/content.html,status_code:403
+2020-03-10 17:15:50,061 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136976/content.html
+2020-03-10 17:16:04,322 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136297/content.html,status_code:403
+2020-03-10 17:16:04,322 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136297/content.html
+2020-03-10 17:16:09,438 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141519/content.html,status_code:403
+2020-03-10 17:16:09,439 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141519/content.html
+2020-03-10 17:16:14,520 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136343/content.html,status_code:403
+2020-03-10 17:16:14,521 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136343/content.html
+2020-03-10 17:16:20,666 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141517/content.html,status_code:403
+2020-03-10 17:16:20,667 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5141517/content.html
+2020-03-10 17:16:35,743 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=5,status_code:403
+2020-03-10 17:18:17,907 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201808/t20180803_254750.html
+2020-03-10 17:18:21,038 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201807/t20180730_254749.html
+2020-03-10 17:18:23,294 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201812/t20181213_254748.html
+2020-03-10 17:18:28,419 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201812/t20181212_254747.html
+2020-03-10 17:18:30,536 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201807/t20180727_254746.html
+2020-03-10 17:18:32,665 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201906/t20190625_254519.html
+2020-03-10 17:18:39,731 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201812/t20181212_254745.html
+2020-03-10 17:18:41,886 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201812/t20181224_254743.html
+2020-03-10 17:18:44,977 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201812/t20181224_254742.html
+2020-03-10 17:18:48,108 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/guangxi.py[line:39] - ERROR: url错误:http://guangxi.chinatax.gov.cn/zcwj/zxwj/201807/t20180719_254740.html
+2020-03-10 17:27:55,812 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4577889/content.html,status_code:403
+2020-03-10 17:27:56,459 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4577889/content.html
+2020-03-10 17:28:01,545 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136071/content.html,status_code:403
+2020-03-10 17:28:01,546 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5136071/content.html
+2020-03-10 17:28:05,648 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135326/content.html,status_code:403
+2020-03-10 17:28:05,648 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135326/content.html
+2020-03-10 17:28:14,739 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135370/content.html,status_code:403
+2020-03-10 17:28:14,739 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135370/content.html
+2020-03-10 17:28:18,030 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135348/content.html,status_code:403
+2020-03-10 17:28:18,030 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135348/content.html
+2020-03-10 17:28:27,104 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559725/content.html,status_code:403
+2020-03-10 17:28:27,104 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559725/content.html
+2020-03-10 17:28:33,202 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4541026/content.html,status_code:403
+2020-03-10 17:28:33,202 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4541026/content.html
+2020-03-10 17:28:37,454 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551146/content.html,status_code:403
+2020-03-10 17:28:37,455 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551146/content.html
+2020-03-10 17:28:46,575 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551134/content.html,status_code:403
+2020-03-10 17:28:46,575 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4551134/content.html
+2020-03-10 17:28:48,657 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135371/content.html,status_code:403
+2020-03-10 17:28:48,658 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c5135371/content.html
+2020-03-10 17:28:51,847 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4536962/content.html,status_code:403
+2020-03-10 17:28:51,848 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4536962/content.html
+2020-03-10 17:29:00,941 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4527620/content.html,status_code:403
+2020-03-10 17:29:00,941 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4527620/content.html
+2020-03-10 17:29:03,170 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559672/content.html,status_code:403
+2020-03-10 17:29:03,171 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4559672/content.html
+2020-03-10 17:29:13,271 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4482087/content.html,status_code:403
+2020-03-10 17:29:13,271 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4482087/content.html
+2020-03-10 17:29:23,378 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=6,status_code:403
+2020-03-10 17:30:18,506 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=6,status_code:403
+2020-03-10 17:43:14,276 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4457706/content.html,status_code:403
+2020-03-10 17:43:14,287 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4457706/content.html
+2020-03-10 17:43:23,366 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4457383/content.html,status_code:403
+2020-03-10 17:43:23,367 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4457383/content.html
+2020-03-10 17:43:25,459 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4428218/content.html,status_code:403
+2020-03-10 17:43:25,460 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4428218/content.html
+2020-03-10 17:43:30,530 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4454219/content.html,status_code:403
+2020-03-10 17:43:30,531 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4454219/content.html
+2020-03-10 17:43:36,609 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4453783/content.html,status_code:403
+2020-03-10 17:43:36,609 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4453783/content.html
+2020-03-10 17:43:42,667 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4446611/content.html,status_code:403
+2020-03-10 17:43:42,667 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4446611/content.html
+2020-03-10 17:43:46,729 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4469363/content.html,status_code:403
+2020-03-10 17:43:46,729 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4469363/content.html
+2020-03-10 17:43:48,798 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4416845/content.html,status_code:403
+2020-03-10 17:43:48,799 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4416845/content.html
+2020-03-10 17:43:51,870 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4404754/content.html,status_code:403
+2020-03-10 17:43:51,871 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4404754/content.html
+2020-03-10 17:44:01,964 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4388806/content.html,status_code:403
+2020-03-10 17:44:01,964 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4388806/content.html
+2020-03-10 17:44:03,071 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4399746/content.html,status_code:403
+2020-03-10 17:44:03,072 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4399746/content.html
+2020-03-10 17:44:11,256 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4377559/content.html,status_code:403
+2020-03-10 17:44:11,257 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4377559/content.html
+2020-03-10 17:44:16,339 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4400721/content.html,status_code:403
+2020-03-10 17:44:16,339 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4400721/content.html
+2020-03-10 17:44:19,421 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4380772/content.html,status_code:403
+2020-03-10 17:44:19,421 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4380772/content.html
+2020-03-10 17:44:32,528 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=7,status_code:403
+2020-03-10 17:46:32,888 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=7,status_code:403
+2020-03-10 17:48:57,674 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=7,status_code:403
+2020-03-10 17:51:50,372 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=7,status_code:403
+2020-03-10 17:52:51,756 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=7,status_code:403
+2020-03-10 17:52:55,094 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=7,status_code:403
+2020-03-10 17:59:58,758 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4469301/content.html,status_code:403
+2020-03-10 17:59:58,759 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4469301/content.html
+2020-03-10 17:59:59,907 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4299407/content.html,status_code:403
+2020-03-10 17:59:59,908 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4299407/content.html
+2020-03-10 18:00:02,235 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4300874/content.html,status_code:403
+2020-03-10 18:00:02,235 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4300874/content.html
+2020-03-10 18:00:03,343 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4255756/content.html,status_code:403
+2020-03-10 18:00:03,344 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4255756/content.html
+2020-03-10 18:00:04,485 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4292172/content.html,status_code:403
+2020-03-10 18:00:04,486 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4292172/content.html
+2020-03-10 18:00:05,581 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4284464/content.html,status_code:403
+2020-03-10 18:00:05,582 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4284464/content.html
+2020-03-10 18:00:07,881 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4337543/content.html,status_code:403
+2020-03-10 18:00:07,882 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4337543/content.html
+2020-03-10 18:00:08,994 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4292184/content.html,status_code:403
+2020-03-10 18:00:08,994 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4292184/content.html
+2020-03-10 18:00:10,051 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4259830/content.html,status_code:403
+2020-03-10 18:00:10,052 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4259830/content.html
+2020-03-10 18:00:11,114 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4295474/content.html,status_code:403
+2020-03-10 18:00:11,114 - D:/PycharmProject/工作/policy/policy_crawl/spiders/tax/all/nation.py[line:38] - ERROR: url错误:http://www.chinatax.gov.cn/chinatax/n810341/n810755/c4295474/content.html
+2020-03-10 18:00:18,472 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=8,status_code:403

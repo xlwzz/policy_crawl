@@ -8,7 +8,7 @@ from policy_crawl.common.logger import alllog,errorlog
 
 
 def parse_detail(html,url):
-    alllog.logger.info("河北省卫健委: %s"%url)
+    alllog.logger.info("内蒙古市场监督局: %s"%url)
     doc=pq(html)
     data={}
     data["title"]=doc("title").text()
@@ -21,19 +21,18 @@ def parse_detail(html,url):
     except:
         data["publish_time"]=""
         errorlog.logger.error("url:%s 未找到publish_time"%url)
-    data["classification"]="河北省卫健委"
+    data["classification"]="内蒙古市场监督局"
     data["url"]=url
     print(data)
     save(data)
 
 def parse_index(html):
     doc=pq(html)
-    items=doc(".news_list4 li a").items()
+    items=doc(".top_right_con li a").items()
     for item in items:
         url=item.attr("href")
         if "http" not in url:
-            url="http://hrss.jl.gov.cn/zcfbjjd/zcfb" + url.replace("./","/")
-        print(url)
+            url="http://amr.nmg.gov.cn/zw/wjfb" + url.replace("./","/")
         try:
             html=get(url)
         except:
@@ -42,12 +41,8 @@ def parse_index(html):
         time.sleep(1)
 
 def main():
-    for i in range(0,29):
-        print(i)
-        if i==0:
-            url="http://hrss.jl.gov.cn/zcfbjjd/zcfb/index.html"
-        else:
-            url="http://hrss.jl.gov.cn/zcfbjjd/zcfb/index_"+str(i)+".html"
+    urls=["http://amr.nmg.gov.cn/zw/wjfb/index_1.html","http://amr.nmg.gov.cn/zw/wjfb/index.html"]
+    for url in urls:
         html=get(url)
         parse_index(html)
 
