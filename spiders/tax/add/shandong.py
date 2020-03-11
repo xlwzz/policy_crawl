@@ -8,12 +8,12 @@ from policy_crawl.common.logger import alllog,errorlog
 
 
 def parse_detail(html,url):
-    alllog.logger.info("省市场监督局: %s"%url)
+    alllog.logger.info("山东省税务局: %s"%url)
     doc=pq(html)
     data={}
     data["title"]=doc("title").text()
-    data["content"]=doc("#nw_detail").text().replace("\n","")
-    data["content_url"]=[item.attr("href") for item in doc("#nw_detail a").items()]
+    data["content"]=doc("#zoom").text().replace("\n","")
+    data["content_url"]=[item.attr("href") for item in doc("#zoom a").items()]
     try:
         # data["publish_time"]=re.findall("(\d{4}年\d{1,2}月\d{1,2}日)",html)[0]
         # data["publish_time"]=re.findall("(\d{4}/\d{1,2}/\d{1,2})",html)[0]
@@ -21,18 +21,15 @@ def parse_detail(html,url):
     except:
         data["publish_time"]=""
         errorlog.logger.error("url:%s 未找到publish_time"%url)
-    data["classification"]="省市场监督局"
+    data["classification"]="山东省税务局"
     data["url"]=url
     print(data)
     save(data)
 
 def parse_index(html):
-    doc=pq(html)
-    items=doc(".nw_overview_lists li a").items()
-    for item in items:
-        url=item.attr("href")
-        if "http" not in url:
-            url="http://zizhan.mot.gov.cn/st/hebei/tongzhigonggao" + url.replace("./","/")
+    urls=re.findall('><a href="(.+?)" target="_blank">',html)
+    for url in urls:
+        url="http://shandong.chinatax.gov.cn" + url
         try:
             html=get(url)
         except:
@@ -41,16 +38,13 @@ def parse_index(html):
         time.sleep(1)
 
 def main():
-    for i in range(0,25):
+    url="http://shandong.chinatax.gov.cn/module/web/jpage/dataproxy.jsp?"
+    for i in range(10,74):
         print(i)
-        if i==0:
-            url="http://zizhan.mot.gov.cn/st/hebei/tongzhigonggao/index.html"
-        else:
-            url="http://zizhan.mot.gov.cn/st/hebei/tongzhigonggao/index_"+str(i)+".html"
-        html=get(url)
+        params={'startrecord':str(i*90+1), 'endrecord': str(90*(i+1)), 'perpage': '30'}
+        data={'col': '1', 'appid': '1', 'webid': '1', 'path': '/', 'columnid': '1053', 'sourceContentType': '1', 'unitid': '16651', 'webname': '国家税务总局山东省税务局', 'permissiontype': '0'}
+        html=post(url,params=params,data=data)
         parse_index(html)
-
-
 
 
 if __name__ == '__main__':
