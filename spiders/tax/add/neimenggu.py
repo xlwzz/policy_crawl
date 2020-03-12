@@ -24,7 +24,7 @@ def parse_detail(html,url):
     data["classification"]="内蒙古税务局"
     data["url"]=url
     print(data)
-    # save(data)
+    save(data)
 
 def parse_index(html):
     doc=pq(html)
