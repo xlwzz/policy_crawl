@@ -1,0 +1,2 @@
+2020-03-12 13:42:56,896 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：http://shandong.chinatax.gov.cn/module/web/jpage/dataproxy.jsp?,status_code:504
+2020-03-12 14:15:12,859 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：http://shandong.chinatax.gov.cn/module/web/jpage/dataproxy.jsp?,status_code:504

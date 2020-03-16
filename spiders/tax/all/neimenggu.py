@@ -30,7 +30,7 @@ def parse_index(html):
     doc=pq(html)
     items=doc("#snxmtimg li a").items()
     for item in items:
-        url=item.attr("href")
+        url=item.attr("href")#./202003/t20200310_714608.html
         if "http" not in url:
             url="http://neimenggu.chinatax.gov.cn/zcwj/zxwj" + url.replace("./","/")
         try:

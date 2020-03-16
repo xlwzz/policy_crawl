@@ -6,7 +6,7 @@ from my_fake_useragent import UserAgent
 from policy_crawl.common.logger import errorlog
 headers={"User-Agent":UserAgent().random()}
 
-def get(url,params=None,headers=headers,code="utf-8",timeout=60,**kwargs):
+def get(url,params=None,headers=headers,code="utf-8",timeout=160,**kwargs):
     res=requests.get(url,params=params,headers=headers,timeout=timeout,**kwargs)
     if res.status_code in [200,201,301]:
             return res.content.decode(code)
@@ -15,7 +15,7 @@ def get(url,params=None,headers=headers,code="utf-8",timeout=60,**kwargs):
         raise ConnectionError("没有连接")
 
 
-def post(url,data=None,headers=headers,code="utf-8",timeout=60,**kwargs):
+def post(url,data=None,headers=headers,code="utf-8",timeout=160,**kwargs):
     res=requests.post(url,data=data,headers=headers,timeout=timeout,**kwargs)
     if res.status_code in [200,201,301]:
             return res.content.decode(code)

@@ -38,16 +38,13 @@ def parse_index(html):
         r.lpush("nation",url)
 
 def main():
-    for i in range(7,69):
-        print(i)
-        url="http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=" + str(i)
-        print(url)
-        headers={"Referer": "http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=%E6%9C%80%E6%96%B0%E6%96%87%E4%BB%B6&_keyWH=wenhao&page="+str(i-1),
-                 "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"}
-        html=get(url,headers=headers)
-        parse_index(html)
-        time.sleep(random.randint)
-
+    # for i in range(68,69):
+    #     print(i)
+    #     url="http://www.chinatax.gov.cn/chinatax/whmanuscriptList/n810755?_isAgg=0&_pageSize=20&_template=index&_channelName=最新文件&_keyWH=wenhao&page=" + str(i)
+    #     print(url)
+    #     html=get(url)
+    #     parse_index(html)
+    #     time.sleep(random.randint(3,10))
     while True:
         url=r.lpop("nation")
         try:
@@ -55,9 +52,7 @@ def main():
         except:
             errorlog.logger.error("url错误:%s" % url)
         parse_detail(html, url)
-        time.sleep(random.randint(1, 1))
-
-
+        time.sleep(random.randint(1,1))
 
 
 if __name__ == '__main__':

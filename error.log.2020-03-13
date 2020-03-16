@@ -1,0 +1,10 @@
+2020-03-13 11:24:28,459 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mpa.zj.gov.cn/art/2019/1/8/art_1228989285_41328306.html,status_code:404
+2020-03-13 11:24:28,460 - D:/PycharmProject/工作/policy/policy_crawl/zhejiang.py[line:37] - ERROR: url错误:http://mpa.zj.gov.cn/art/2019/1/8/art_1228989285_41328306.html
+2020-03-13 11:28:08,369 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mpa.zj.gov.cn/art/2018/6/7/art_1228989285_41328103.html,status_code:404
+2020-03-13 11:28:08,370 - D:/PycharmProject/工作/policy/policy_crawl/zhejiang.py[line:37] - ERROR: url错误:http://mpa.zj.gov.cn/art/2018/6/7/art_1228989285_41328103.html
+2020-03-13 11:31:45,078 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mpa.zj.gov.cn/art/2017/6/15/art_1228989285_41327901.html,status_code:404
+2020-03-13 11:31:45,079 - D:/PycharmProject/工作/policy/policy_crawl/zhejiang.py[line:37] - ERROR: url错误:http://mpa.zj.gov.cn/art/2017/6/15/art_1228989285_41327901.html
+2020-03-13 11:35:27,879 - D:/PycharmProject/工作/policy/policy_crawl/zhejiang.py[line:37] - ERROR: url错误:http://mpa.zj.gov.cn/art/2016/3/22/art_1228989285_41327715.html
+2020-03-13 11:35:49,918 - D:/PycharmProject/工作/policy/policy_crawl/zhejiang.py[line:37] - ERROR: url错误:http://mpa.zj.gov.cn/art/2016/3/21/art_1228989285_41327714.html
+2020-03-13 11:36:12,025 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mpa.zj.gov.cn/art/2016/1/8/art_1228989285_41327693.html,status_code:404
+2020-03-13 11:36:12,025 - D:/PycharmProject/工作/policy/policy_crawl/zhejiang.py[line:37] - ERROR: url错误:http://mpa.zj.gov.cn/art/2016/1/8/art_1228989285_41327693.html

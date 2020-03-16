@@ -46,7 +46,5 @@ def main():
         parse_index(html)
 
 
-
-
 if __name__ == '__main__':
     main()

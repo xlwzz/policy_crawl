@@ -21,6 +21,9 @@ def parse_detail(html,url):
     except:
         data["publish_time"]=""
         errorlog.logger.error("url:%s 未找到publish_time"%url)
+    if not data["content"]:
+        data["content"] = doc("#article-body").text().replace("\n", "")
+        data["content_url"] = [item.attr("href") for item in doc("#article-body a").items()]
     data["classification"]="广西省税务局"
     data["url"]=url
     print(data)

@@ -16,6 +16,7 @@ def parse_index(html):
             data["title"] = item["title"]
             data["content"] = item["content"]
             data["content_url"] = item["chnldocurl"]
+            data["publish_time"] = ""
             data["classification"] = "福建省税务局"
             data["url"] = item["url"]
             print(data)
