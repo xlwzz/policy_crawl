@@ -1,0 +1,165 @@
+1584431026028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofile7MiHrI"
+*** You are running in headless mode.
+1584431057264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofilegiyZgU"
+1584431058087	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584431058455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584431058455	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584431058456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584431058456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584431061120	Marionette	INFO	Listening on port 63829
+1584431061413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584431063084	Marionette	INFO	Stopped listening on port 63829
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370134,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584431078448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofileRnLeW8"
+*** You are running in headless mode.
+1584431079485	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584431079848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584431079848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584431079848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584431079849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584431082179	Marionette	INFO	Listening on port 64071
+1584431082568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1584431084145	Marionette	INFO	Stopped listening on port 64071
+[Child 20792, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1583751780/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1584431114806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofile3n8luL"
+*** You are running in headless mode.
+1584431115580	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584431115943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584431115943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584431115943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584431115943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584431117974	Marionette	INFO	Listening on port 64513
+1584431118428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_1.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_1.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_1.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_1.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1584431120191	Marionette	INFO	Stopped listening on port 64513
+1584431150874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofile65G2Xb"
+*** You are running in headless mode.
+1584431151798	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584431152130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584431152130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584431152130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584431152130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584431153974	Marionette	INFO	Listening on port 64927
+1584431154002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_2.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_2.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_2.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_2.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1584431155824	Marionette	INFO	Stopped listening on port 64927
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x58000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1584431186036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofilefPm09r"
+*** You are running in headless mode.
+1584431186769	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584431187108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584431187108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584431187108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584431187108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584431190100	Marionette	INFO	Listening on port 65371
+1584431190158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_3.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_3.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_3.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_3.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1584431191806	Marionette	INFO	Stopped listening on port 65371
+1584431221960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofileU171tm"
+*** You are running in headless mode.
+1584431222880	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584431223259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584431223259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584431223259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584431223259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584431225675	Marionette	INFO	Listening on port 49425
+1584431226077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_4.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_4.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_4.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_4.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1584431227902	Marionette	INFO	Stopped listening on port 49425
+1584431257793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofileWEGUmk"
+*** You are running in headless mode.
+1584431258874	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584431259283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584431259284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584431259284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584431259284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584431261399	Marionette	INFO	Listening on port 49855
+1584431261427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_5.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_5.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_5.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_5.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1584431263555	Marionette	INFO	Stopped listening on port 49855
+1584431293159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofilegDhIWl"
+*** You are running in headless mode.
+1584431294574	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584431294988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584431294988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584431294988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584431294988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584431297045	Marionette	INFO	Listening on port 50281
+1584431297278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_6.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_6.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_6.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_6.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1584431298860	Marionette	INFO	Stopped listening on port 50281
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37012E,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1584431330066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\bianx\\AppData\\Local\\Temp\\rust_mozprofileR5Yj65"
+*** You are running in headless mode.
+1584431330850	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584431331215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584431331215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584431331216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584431331216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584431333249	Marionette	INFO	Listening on port 50734
+1584431333686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_7.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_7.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_7.shtml line 5 > eval, line 1: Error: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://jyt.hubei.gov.cn/fbjd/xxgkml/zcwj/zcfg/index_7.shtml line 5 > eval, line 1: Error: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1584431335388	Marionette	INFO	Stopped listening on port 50734

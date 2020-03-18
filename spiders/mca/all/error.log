@@ -1181,3 +1181,50 @@
 2020-03-16 16:48:29,611 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/xinjiang.py[line:39] - ERROR: url错误:http://www.xinjiang.gov.cn/2015/10/21/64608.html?path=zcfg
 2020-03-16 16:48:49,072 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/xinjiang.py[line:39] - ERROR: url错误:http://egov.xinjiang.gov.cn/2014/12/29/64324.html?path=zcfg
 2020-03-16 16:48:50,110 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/xinjiang.py[line:39] - ERROR: url错误:http://egov.xinjiang.gov.cn/2015/03/09/64357.html?path=zcfg
+2020-03-17 09:11:18,812 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mzj.beijing.gov.cn//art/2014/4/9/art_6112_11460.html,status_code:502
+2020-03-17 09:11:18,825 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/beijing.py[line:37] - ERROR: url错误:http://mzj.beijing.gov.cn//art/2014/4/9/art_6112_11460.html
+2020-03-17 09:21:49,647 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mzj.beijing.gov.cn//art/2005/3/1/art_4492_8980.html,status_code:502
+2020-03-17 09:21:49,648 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/beijing.py[line:37] - ERROR: url错误:http://mzj.beijing.gov.cn//art/2005/3/1/art_4492_8980.html
+2020-03-17 09:26:41,323 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/count//0115005/000000000000/000/000/c0115005000000000000_00000001.shtml,status_code:404
+2020-03-17 09:29:05,907 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/11/24/030011110.shtml
+2020-03-17 09:30:27,368 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mzj.cq.gov.cn/cqmz/html/zcxwj/index_1.html,status_code:403
+2020-03-17 09:32:26,945 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/11/24/030011110.shtml
+2020-03-17 09:34:43,313 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/count//0115005/000000000000/000/000/c0115005000000000000_0000000010.shtml,status_code:404
+2020-03-17 09:37:14,307 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/count//0115005/000000000000/000/000/c0115005000000000000_0000000010.shtml,status_code:404
+2020-03-17 09:38:56,089 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/11/24/030011189.shtml
+2020-03-17 09:40:35,867 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/2017/03/20/030008454.shtml,status_code:404
+2020-03-17 09:40:35,867 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2017/03/20/030008454.shtml
+2020-03-17 09:40:36,953 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/2017/03/20/030008453.shtml,status_code:404
+2020-03-17 09:40:36,953 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2017/03/20/030008453.shtml
+2020-03-17 09:40:59,350 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/2018/08/01/030010068.shtml,status_code:404
+2020-03-17 09:40:59,350 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/08/01/030010068.shtml
+2020-03-17 09:41:19,596 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010193.shtml,status_code:404
+2020-03-17 09:41:19,596 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010193.shtml
+2020-03-17 09:41:20,706 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010192.shtml,status_code:404
+2020-03-17 09:41:20,707 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010192.shtml
+2020-03-17 09:42:20,590 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010194.shtml
+2020-03-17 09:42:21,737 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010193.shtml,status_code:404
+2020-03-17 09:42:21,737 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010193.shtml
+2020-03-17 09:42:22,820 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010192.shtml,status_code:404
+2020-03-17 09:42:22,821 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010192.shtml
+2020-03-17 09:42:46,498 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010194.shtml,status_code:404
+2020-03-17 09:42:46,499 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/10/31/030010194.shtml
+2020-03-17 09:43:16,982 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/11/09/030010293.shtml
+2020-03-17 09:44:20,737 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://mz.tj.gov.cn/zwgk/system/2018/11/13/030010349.shtml,status_code:404
+2020-03-17 09:44:20,738 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/tianjin.py[line:39] - ERROR: url错误:http://mz.tj.gov.cn/zwgk/system/2018/11/13/030010349.shtml
+2020-03-17 09:48:35,548 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/guangzhou.py[line:36] - ERROR: url错误:http://mzj.gz.gov.cn/gkmlpt/content/4/4460/post_4460397.html
+2020-03-17 09:50:52,848 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:39] - ERROR: url错误:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/shzz_mz/shtt/202003/t20200313_19054529.htm
+2020-03-17 09:50:52,865 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:23] - ERROR: url:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/shzz_mz/shtt/202003/t20200313_19054529.htm 未找到publish_time
+2020-03-17 09:50:53,978 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:39] - ERROR: url错误:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/shgz/201912/t20191231_18960412.htm
+2020-03-17 09:50:53,987 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:23] - ERROR: url:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/shgz/201912/t20191231_18960412.htm 未找到publish_time
+2020-03-17 09:50:55,088 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:39] - ERROR: url错误:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/byfw/201912/t20191224_18948120.htm
+2020-03-17 09:50:55,104 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:23] - ERROR: url:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/byfw/201912/t20191224_18948120.htm 未找到publish_time
+2020-03-17 09:51:29,445 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/guangzhou.py[line:36] - ERROR: url错误:http://mzj.gz.gov.cn/gkmlpt/content/5/5492/post_5492948.html
+2020-03-17 09:56:23,840 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:39] - ERROR: url错误:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/fcgyj/201612/t20161210_5667873.htm
+2020-03-17 09:56:23,846 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:23] - ERROR: url:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/fcgyj/201612/t20161210_5667873.htm 未找到publish_time
+2020-03-17 09:56:37,306 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:39] - ERROR: url错误:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/jzfw/201612/t20161210_5667544.htm
+2020-03-17 09:56:57,851 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:39] - ERROR: url错误:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/shzz_mz/zhl/201708/t20170816_8142336.htm
+2020-03-17 09:56:57,866 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:23] - ERROR: url:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/shzz_mz/zhl/201708/t20170816_8142336.htm 未找到publish_time
+2020-03-17 09:57:19,137 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:39] - ERROR: url错误:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/sydj/201612/t20161210_5667559.htm
+2020-03-17 09:57:27,007 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:39] - ERROR: url错误:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/sydj/201612/t20161210_5667557.htm
+2020-03-17 09:58:09,278 - D:/PycharmProject/工作/policy/policy_crawl/spiders/mca/all/shenzhen.py[line:39] - ERROR: url错误:http://mzj.sz.gov.cn/cn/xxgk_mz/zcfg/byfw/201703/t20170331_6108763.htm
