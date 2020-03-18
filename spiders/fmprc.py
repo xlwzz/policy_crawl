@@ -8,12 +8,12 @@ from policy_crawl.common.logger import alllog,errorlog
 
 
 def parse_detail(html,url):
-    alllog.logger.info("内蒙古发改委: %s"%url)
+    alllog.logger.info("外交部: %s"%url)
     doc=pq(html)
     data={}
-    data["title"]=doc(".font_hong18_2").text()
-    data["content"]=doc(".font_hei14_2").text().replace("\n","")
-    data["content_url"]=[item.attr("href") for item in doc(".font_hei14_2 a").items()]
+    data["title"]=doc("title").text()
+    data["content"]=doc(".content").text().replace("\n","")
+    data["content_url"]=[item.attr("href") for item in doc(".content a").items()]
     try:
         # data["publish_time"]=re.findall("(\d{4}年\d{1,2}月\d{1,2}日)",html)[0]
         # data["publish_time"]=re.findall("(\d{4}/\d{1,2}/\d{1,2})",html)[0]
@@ -21,22 +21,18 @@ def parse_detail(html,url):
     except:
         data["publish_time"]=""
         errorlog.logger.error("url:%s 未找到publish_time"%url)
-    data["classification"]="内蒙古发改委"
+    data["classification"]="外交部"
     data["url"]=url
     print(data)
     save(data)
 
 def parse_index(html):
     doc=pq(html)
-    items=doc(".font_hui14_cu a").items()
+    items=doc(".rebox_news li a").items()
     for item in items:
         url=item.attr("href")
-        if "../../../" in url:
-            url="http://fgw.nmg.gov.cn" + url.replace("../../../","/")
-        if "../../" in url:
-            url="http://fgw.nmg.gov.cn" + url.replace("../../","/")
-        if "./" in url:
-            url="http://fgw.nmg.gov.cn/xxgk/zxzx/tzgg" + url.replace("./","/")
+        if "http" not in url:
+            url="https://www.fmprc.gov.cn/web/wjdt_674879/sjxw_674887" + url.replace("./","/")
         try:
             html=get(url)
         except:
@@ -45,12 +41,12 @@ def parse_index(html):
         time.sleep(1)
 
 def main():
-    for i in range(72,125):
+    for i in range(0,67):
         print(i)
         if i==0:
-            url="http://fgw.nmg.gov.cn/xxgk/zxzx/tzgg/index.html"
+            url="https://www.fmprc.gov.cn/web/wjdt_674879/sjxw_674887/default.shtml"
         else:
-            url="http://fgw.nmg.gov.cn/xxgk/zxzx/tzgg/index_"+str(i)+".html"
+            url="https://www.fmprc.gov.cn/web/wjdt_674879/sjxw_674887/default_"+str(i)+".shtml"
         html=get(url)
         parse_index(html)
 

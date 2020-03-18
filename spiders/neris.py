@@ -37,11 +37,11 @@ def parse_index(html):
         print(url)
         html = get(url,verify=False)
         parse_detail(html,url)
-        time.sleep(random.randint(1,20))
+        time.sleep(random.randint(10,20))
 
 def main():
     url="https://neris.csrc.gov.cn/falvfagui/rdqsHeader/informationController"
-    for i in range(7,131):
+    for i in range(13,131):
         print(i)
         data={'pageNo': str(i), 'lawType': '1'}
         html=post(url,data=data,verify=False)

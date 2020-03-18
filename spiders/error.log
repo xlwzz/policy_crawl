@@ -428,3 +428,16 @@
 2020-03-18 16:03:10,050 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:14] - ERROR: url status_code 错误：http://www.ndrc.gov.cn/zcfb/zcfbtz/201910/t20191009_1169274.html,status_code:404
 2020-03-18 16:03:10,051 - D:/PycharmProject/工作/policy/policy_crawl/spiders/neimenggufgw.py[line:43] - ERROR: url错误:http://www.ndrc.gov.cn/zcfb/zcfbtz/201910/t20191009_1169274.html
 2020-03-18 16:03:33,783 - D:/PycharmProject/工作/policy/policy_crawl/spiders/neimenggufgw.py[line:43] - ERROR: url错误:http://fgw.nmg.gov.cn/xxgk/zxzx/tzgg/201908/P020190814625232258555.pdf
+2020-03-18 16:08:17,870 - D:/PycharmProject/工作/policy/policy_crawl/spiders/neimenggufgw.py[line:43] - ERROR: url错误:http://fgw.nmg.gov.cn/xxgk/zxzx/tzgg/201512/t20151204_113237.html
+2020-03-18 16:18:17,251 - D:/PycharmProject/工作/policy/policy_crawl/spiders/neris.py[line:25] - ERROR: url:https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=92225a9c20eb426882b4ec3fda1febdc 未找到publish_time
+2020-03-18 16:26:46,757 - D:/PycharmProject/工作/policy/policy_crawl/spiders/whhbgov.py[line:39] - ERROR: url错误:http://www.wh.gov.cn/hbgovinfo/zwgk_8265/szfxxgkml/fggw/bgtwj/202002/t20200222_305392.html
+2020-03-18 16:30:19,914 - D:/PycharmProject/工作/policy/policy_crawl/spiders/whhbgov.py[line:39] - ERROR: url错误:http://www.wh.gov.cn/hbgovinfo/zwgk_8265/szfxxgkml/fggw/bgtwj/201910/t20191022_293753.html
+2020-03-18 16:30:46,428 - D:/PycharmProject/工作/policy/policy_crawl/spiders/whhbgov.py[line:39] - ERROR: url错误:http://www.wh.gov.cn/hbgovinfo/zwgk_8265/szfxxgkml/fggw/bgtwj/201910/t20191022_293717.html
+2020-03-18 16:31:23,180 - D:/PycharmProject/工作/policy/policy_crawl/spiders/neris.py[line:25] - ERROR: url:https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=c3881f031a3a42efb7e5e7ec5f804cbc 未找到publish_time
+2020-03-18 16:39:29,536 - D:\PycharmProject\工作\policy\policy_crawl\spiders\wuhanhbgov.py[line:39] - ERROR: url错误:http://www.wh.gov.cn/hbgovinfo/zwgk_8265/szfxxgkml/fggw/bgtwj/201910/t20191022_293415.html
+2020-03-18 16:40:15,804 - D:\PycharmProject\工作\policy\policy_crawl\spiders\wuhanhbgov.py[line:39] - ERROR: url错误:http://www.wh.gov.cn/hbgovinfo/zwgk_8265/szfxxgkml/fggw/bgtwj/201910/t20191022_293382.html
+2020-03-18 16:41:00,485 - D:/PycharmProject/工作/policy/policy_crawl/spiders/neris.py[line:25] - ERROR: url:https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=007b8e66e11a4955acfcfb930815765e 未找到publish_time
+2020-03-18 16:47:55,133 - D:\PycharmProject\工作\policy\policy_crawl\spiders\wuhanhbgov.py[line:39] - ERROR: url错误:http://www.wh.gov.cn/hbgovinfo/zwgk_8265/szfxxgkml/fggw/bgtwj/201910/t20191022_293055.html
+2020-03-18 16:49:50,890 - D:\PycharmProject\工作\policy\policy_crawl\spiders\wuhanhbgov.py[line:39] - ERROR: url错误:http://www.wh.gov.cn/hbgovinfo/zwgk_8265/szfxxgkml/fggw/bgtwj/201910/t20191022_292982.html
+2020-03-18 16:49:52,483 - D:/PycharmProject/工作/policy/policy_crawl/spiders/neris.py[line:25] - ERROR: url:https://neris.csrc.gov.cn/falvfagui/rdqsHeader/mainbody?navbarId=1&secFutrsLawId=4c7ff22a58764dd994791bb02457cdd9 未找到publish_time
+2020-03-18 16:51:38,355 - D:\PycharmProject\工作\policy\policy_crawl\common\fetch.py[line:23] - ERROR: url status_code 错误：https://neris.csrc.gov.cn/falvfagui/rdqsHeader/informationController,status_code:502

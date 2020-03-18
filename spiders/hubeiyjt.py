@@ -40,12 +40,13 @@ def parse_index(html):
         time.sleep(1)
 
 def main():
-    for i in range(4,67):
+    for i in range(27,67):
         print(i)
         if i==0:
             url="http://yjt.hubei.gov.cn/fbjd/tzgg/index.shtml"
         else:
             url="http://yjt.hubei.gov.cn/fbjd/tzgg/index_"+str(i)+".shtml"
+        print(url)
         cookies=get_cookie(url,".lsj-list")
         html=get(url,cookies=cookies)
         parse_index(html)
